@@ -3,7 +3,7 @@ id: 665
 title: VS Code에서 Phoenix 프레임워크의 eex 템플릿에 Emmet 사용하기
 date: 2018-01-12T17:34:49+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=665
 permalink: '/2018/01/12/vs-code%ec%97%90%ec%84%9c-phoenix-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac%ec%9d%98-eex-%ed%85%9c%ed%94%8c%eb%a6%bf%ec%97%90-emmet-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/'
 categories:

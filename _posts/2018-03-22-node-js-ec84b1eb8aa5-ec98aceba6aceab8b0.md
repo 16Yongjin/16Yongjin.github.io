@@ -3,7 +3,7 @@ id: 698
 title: 'Node.js  성능 올리기'
 date: 2018-03-22T20:15:48+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=698
 permalink: '/2018/03/22/node-js-%ec%84%b1%eb%8a%a5-%ec%98%ac%eb%a6%ac%ea%b8%b0/'
 timeline_notification:

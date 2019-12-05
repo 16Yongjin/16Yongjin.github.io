@@ -3,7 +3,7 @@ id: 685
 title: 파이프 함수를 사용한 신경망 쌓기
 date: 2018-02-16T02:14:52+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=685
 permalink: '/2018/02/16/%ed%8c%8c%ec%9d%b4%ed%94%84-%ed%95%a8%ec%88%98%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%9c-%ec%8b%a0%ea%b2%bd%eb%a7%9d-%ec%8c%93%ea%b8%b0/'
 timeline_notification:

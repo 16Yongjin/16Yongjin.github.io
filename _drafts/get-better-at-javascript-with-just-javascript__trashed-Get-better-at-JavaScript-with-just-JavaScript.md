@@ -3,7 +3,7 @@ id: 1005
 title: Get better at JavaScript with just JavaScript
 date: 2019-11-26T00:58:36+09:00
 author: yongjin0802
-layout: post
+
 guid: https://yongj.in/?p=1005
 permalink: /2019/11/26/get-better-at-javascript-with-just-javascript__trashed/
 mytory_md_path:

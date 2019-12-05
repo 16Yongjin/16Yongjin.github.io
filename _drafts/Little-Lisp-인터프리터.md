@@ -3,7 +3,7 @@ id: 1019
 title: Little Lisp 인터프리터
 date: 2019-12-04T21:13:11+09:00
 author: yongjin0802
-layout: post
+
 guid: https://yongj.in/?p=1019
 permalink: /?p=1019
 categories:

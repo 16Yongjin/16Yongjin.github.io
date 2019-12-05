@@ -3,7 +3,7 @@ id: 904
 title: 포르투갈어 동사변형 앱 아이콘 만들기
 date: 2019-06-06T18:56:41+09:00
 author: yongjin0802
-layout: post
+
 guid: https://yongj.in/?p=904
 permalink: '/2019/06/06/%ed%8f%ac%eb%a5%b4%ed%88%ac%ea%b0%88%ec%96%b4-%eb%8f%99%ec%82%ac%eb%b3%80%ed%98%95-%ec%95%b1-%ec%95%84%ec%9d%b4%ec%bd%98-%eb%a7%8c%eb%93%a4%ea%b8%b0/'
 categories:

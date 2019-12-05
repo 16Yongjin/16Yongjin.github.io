@@ -3,7 +3,7 @@ id: 999
 title: Get better at JavaScript with just JavaScript 강의 정리
 date: 2019-11-26T00:53:25+09:00
 author: yongjin0802
-layout: post
+
 guid: https://yongj.in/?p=999
 permalink: /2019/11/26/999__trashed/
 categories:

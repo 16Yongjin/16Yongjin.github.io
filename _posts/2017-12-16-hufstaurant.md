@@ -3,7 +3,7 @@ id: 657
 title: Hufstaurant
 date: 2017-12-16T19:33:33+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=657
 permalink: /2017/12/16/hufstaurant/
 categories:

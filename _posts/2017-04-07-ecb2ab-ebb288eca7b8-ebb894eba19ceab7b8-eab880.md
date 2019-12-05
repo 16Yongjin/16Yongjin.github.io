@@ -3,7 +3,7 @@ id: 8
 title: 첫 글
 date: 2017-04-07T12:42:17+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=4
 permalink: '/2017/04/07/%ec%b2%ab-%eb%b2%88%ec%a7%b8-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ea%b8%80/'
 sharing_disabled:

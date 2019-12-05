@@ -3,7 +3,7 @@ id: 480
 title: 포르투갈어 팝업 사전
 date: 2017-08-22T03:32:15+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=480
 permalink: '/2017/08/22/%ed%8f%ac%eb%a5%b4%ed%88%ac%ea%b0%88%ec%96%b4-%ed%8c%9d%ec%97%85-%ec%82%ac%ec%a0%84/'
 categories:

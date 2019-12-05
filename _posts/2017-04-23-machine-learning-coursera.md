@@ -3,7 +3,7 @@ id: 287
 title: Machine Learning | Coursera
 date: 2017-04-23T19:03:06+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=287
 permalink: /2017/04/23/machine-learning-coursera/
 categories:

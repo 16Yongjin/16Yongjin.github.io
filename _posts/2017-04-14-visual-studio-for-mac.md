@@ -3,7 +3,7 @@ id: 90
 title: Visual Studio for Mac
 date: 2017-04-14T00:23:45+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=90
 permalink: /2017/04/14/visual-studio-for-mac/
 categories:

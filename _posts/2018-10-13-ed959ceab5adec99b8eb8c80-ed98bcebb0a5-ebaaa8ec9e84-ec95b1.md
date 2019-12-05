@@ -3,7 +3,7 @@ id: 799
 title: 한국외대 혼밥 모임 앱
 date: 2018-10-13T23:19:32+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=799
 permalink: '/2018/10/13/%ed%95%9c%ea%b5%ad%ec%99%b8%eb%8c%80-%ed%98%bc%eb%b0%a5-%eb%aa%a8%ec%9e%84-%ec%95%b1/'
 timeline_notification:

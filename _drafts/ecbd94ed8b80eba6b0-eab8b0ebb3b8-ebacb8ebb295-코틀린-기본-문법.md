@@ -3,7 +3,7 @@ id: 600
 title: 코틀린 기본 문법
 date: 2017-11-10T20:55:19+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=600
 permalink: '/2017/11/10/%ec%bd%94%ed%8b%80%eb%a6%b0-%ea%b8%b0%eb%b3%b8-%eb%ac%b8%eb%b2%95/'
 categories:

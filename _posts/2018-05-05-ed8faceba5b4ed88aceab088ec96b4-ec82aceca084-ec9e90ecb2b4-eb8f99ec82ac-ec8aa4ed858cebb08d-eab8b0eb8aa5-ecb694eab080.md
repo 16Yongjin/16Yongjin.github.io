@@ -3,7 +3,7 @@ id: 724
 title: 포르투갈어 사전 자체 동사 스테밍 기능 추가
 date: 2018-05-05T00:53:44+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=724
 permalink: '/2018/05/05/%ed%8f%ac%eb%a5%b4%ed%88%ac%ea%b0%88%ec%96%b4-%ec%82%ac%ec%a0%84-%ec%9e%90%ec%b2%b4-%eb%8f%99%ec%82%ac-%ec%8a%a4%ed%85%8c%eb%b0%8d-%ea%b8%b0%eb%8a%a5-%ec%b6%94%ea%b0%80/'
 timeline_notification:

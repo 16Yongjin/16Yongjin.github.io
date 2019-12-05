@@ -3,7 +3,7 @@ id: 671
 title: Node.js 리눅스 배포 스크립트
 date: 2018-01-19T21:58:25+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=671
 permalink: '/2018/01/19/node-js-%eb%a6%ac%eb%88%85%ec%8a%a4-%eb%b0%b0%ed%8f%ac-%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8/'
 timeline_notification:

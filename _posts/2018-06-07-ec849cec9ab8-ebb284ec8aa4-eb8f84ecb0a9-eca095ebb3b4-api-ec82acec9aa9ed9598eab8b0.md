@@ -3,7 +3,7 @@ id: 755
 title: 서울 버스 도착 정보 API 사용하기
 date: 2018-06-07T01:24:16+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=755
 permalink: '/2018/06/07/%ec%84%9c%ec%9a%b8-%eb%b2%84%ec%8a%a4-%eb%8f%84%ec%b0%a9-%ec%a0%95%eb%b3%b4-api-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/'
 timeline_notification:

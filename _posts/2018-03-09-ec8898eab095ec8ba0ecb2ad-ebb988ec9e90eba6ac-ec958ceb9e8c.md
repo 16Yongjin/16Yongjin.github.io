@@ -3,7 +3,7 @@ id: 689
 title: 수강신청 빈자리 알람
 date: 2018-03-09T14:53:22+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=689
 permalink: '/2018/03/09/%ec%88%98%ea%b0%95%ec%8b%a0%ec%b2%ad-%eb%b9%88%ec%9e%90%eb%a6%ac-%ec%95%8c%eb%9e%8c/'
 timeline_notification:

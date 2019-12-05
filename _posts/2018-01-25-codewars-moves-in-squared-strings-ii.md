@@ -3,7 +3,7 @@ id: 675
 title: '[Codewars] Moves in squared strings (II)'
 date: 2018-01-25T14:46:15+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=675
 permalink: /2018/01/25/codewars-moves-in-squared-strings-ii/
 timeline_notification:

@@ -3,7 +3,7 @@ id: 779
 title: 'Factory 패턴: 객체의 생성과 구현을 분리한다.'
 date: 2018-07-13T16:55:41+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=779
 permalink: '/2018/07/13/factory-%ed%8c%a8%ed%84%b4-%ea%b0%9d%ec%b2%b4%ec%9d%98-%ec%83%9d%ec%84%b1%ea%b3%bc-%ea%b5%ac%ed%98%84%ec%9d%84-%eb%b6%84%eb%a6%ac%ed%95%9c%eb%8b%a4/'
 timeline_notification:

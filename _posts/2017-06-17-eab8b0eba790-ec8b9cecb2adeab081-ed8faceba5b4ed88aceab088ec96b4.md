@@ -3,7 +3,7 @@ id: 328
 title: 기말 시청각 포르투갈어
 date: 2017-06-17T00:43:38+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=328
 permalink: '/2017/06/17/%ea%b8%b0%eb%a7%90-%ec%8b%9c%ec%b2%ad%ea%b0%81-%ed%8f%ac%eb%a5%b4%ed%88%ac%ea%b0%88%ec%96%b4/'
 categories:

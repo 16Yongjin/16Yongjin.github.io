@@ -2,7 +2,7 @@
 id: 585
 date: 2018-01-19T21:58:48+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=585
 permalink: /2018/01/19/__trashed/
 categories:

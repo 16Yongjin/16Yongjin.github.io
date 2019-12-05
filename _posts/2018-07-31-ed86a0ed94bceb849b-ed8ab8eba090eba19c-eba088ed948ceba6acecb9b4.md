@@ -3,7 +3,7 @@ id: 782
 title: '토피넛 &#8211; 트렐로 레플리카'
 date: 2018-07-31T17:03:53+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=782
 permalink: '/2018/07/31/%ed%86%a0%ed%94%bc%eb%84%9b-%ed%8a%b8%eb%a0%90%eb%a1%9c-%eb%a0%88%ed%94%8c%eb%a6%ac%ec%b9%b4/'
 timeline_notification:

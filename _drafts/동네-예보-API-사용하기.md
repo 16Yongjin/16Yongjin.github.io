@@ -3,7 +3,7 @@ id: 769
 title: 동네 예보 API 사용하기
 date: 2018-06-07T13:10:09+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=769
 permalink: /?p=769
 categories:

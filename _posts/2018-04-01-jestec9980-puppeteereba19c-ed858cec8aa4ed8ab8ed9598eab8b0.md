@@ -3,7 +3,7 @@ id: 707
 title: Jest와 Puppeteer로 테스트하기
 date: 2018-04-01T18:35:51+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=707
 permalink: '/2018/04/01/jest%ec%99%80-puppeteer%eb%a1%9c-%ed%85%8c%ec%8a%a4%ed%8a%b8%ed%95%98%ea%b8%b0/'
 timeline_notification:

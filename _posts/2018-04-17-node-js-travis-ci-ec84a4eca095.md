@@ -3,7 +3,7 @@ id: 709
 title: Node.js Travis CI 설정
 date: 2018-04-17T00:53:56+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=709
 permalink: '/2018/04/17/node-js-travis-ci-%ec%84%a4%ec%a0%95/'
 timeline_notification:

@@ -3,7 +3,7 @@ id: 266
 title: 'Udemy html&#038;css 해더 부분'
 date: 2017-04-22T23:27:59+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=266
 permalink: '/2017/04/22/udemy-htmlcss-%ed%95%b4%eb%8d%94-%eb%b6%80%eb%b6%84/'
 categories:

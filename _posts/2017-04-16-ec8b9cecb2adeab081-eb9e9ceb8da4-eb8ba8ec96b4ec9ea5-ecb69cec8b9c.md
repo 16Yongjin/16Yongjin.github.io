@@ -3,7 +3,7 @@ id: 118
 title: 시청각 랜덤 단어장 출시
 date: 2017-04-16T00:09:42+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=118
 permalink: '/2017/04/16/%ec%8b%9c%ec%b2%ad%ea%b0%81-%eb%9e%9c%eb%8d%a4-%eb%8b%a8%ec%96%b4%ec%9e%a5-%ec%b6%9c%ec%8b%9c/'
 categories:

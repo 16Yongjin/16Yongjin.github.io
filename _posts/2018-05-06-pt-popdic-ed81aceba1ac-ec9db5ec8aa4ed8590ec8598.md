@@ -3,7 +3,7 @@ id: 732
 title: PT POPDIC 크롬 익스텐션
 date: 2018-05-06T15:12:53+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=732
 permalink: '/2018/05/06/pt-popdic-%ed%81%ac%eb%a1%ac-%ec%9d%b5%ec%8a%a4%ed%85%90%ec%85%98/'
 timeline_notification:

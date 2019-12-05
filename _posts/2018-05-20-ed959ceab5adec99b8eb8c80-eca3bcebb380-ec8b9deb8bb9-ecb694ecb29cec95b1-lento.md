@@ -3,7 +3,7 @@ id: 736
 title: 한국외대 주변 식당 추천앱 Lento
 date: 2018-05-20T23:04:43+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=736
 permalink: '/2018/05/20/%ed%95%9c%ea%b5%ad%ec%99%b8%eb%8c%80-%ec%a3%bc%eb%b3%80-%ec%8b%9d%eb%8b%b9-%ec%b6%94%ec%b2%9c%ec%95%b1-lento/'
 timeline_notification:

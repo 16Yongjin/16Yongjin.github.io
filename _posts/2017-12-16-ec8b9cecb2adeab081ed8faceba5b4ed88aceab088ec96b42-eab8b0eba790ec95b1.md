@@ -3,7 +3,7 @@ id: 659
 title: 시청각포르투갈어2 기말앱
 date: 2017-12-16T19:45:58+09:00
 author: yongjinsite
-layout: post
+
 guid: https://yongjinsite.wordpress.com/?p=659
 permalink: '/2017/12/16/%ec%8b%9c%ec%b2%ad%ea%b0%81%ed%8f%ac%eb%a5%b4%ed%88%ac%ea%b0%88%ec%96%b42-%ea%b8%b0%eb%a7%90%ec%95%b1/'
 categories:
