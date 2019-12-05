@@ -5,7 +5,7 @@ date: 2019-09-06T20:46:36+09:00
 author: yongjin0802
 layout: post
 # guid: https://yongj.in/?p=972
-permalink: '/2019/09/06/19-2-%ed%95%9c%ea%b5%ad%ec%99%b8%eb%8c%80-%ec%88%98%ea%b0%95%ec%8b%a0%ec%b2%ad-%eb%b9%88%ec%9e%90%eb%a6%ac-%ec%95%8c%eb%9e%8c/'
+# permalink: '/2019/09/06/19-2-%ed%95%9c%ea%b5%ad%ec%99%b8%eb%8c%80-%ec%88%98%ea%b0%95%ec%8b%a0%ec%b2%ad-%eb%b9%88%ec%9e%90%eb%a6%ac-%ec%95%8c%eb%9e%8c/'
 categories:
   - Development
   - Flutter
