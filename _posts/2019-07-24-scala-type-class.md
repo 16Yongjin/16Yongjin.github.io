@@ -3,11 +3,9 @@ id: 940
 title: Scala Type Class
 date: 2019-07-24T20:10:05+09:00
 author: yongjin0802
-
-guid: https://yongj.in/?p=940
 permalink: /2019/07/24/scala-type-class/
 categories:
-  - 기타
+  - Scala
 tags:
   - Functional Programming
   - Scala
