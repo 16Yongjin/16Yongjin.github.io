@@ -1,0 +1,120 @@
+---
+id: 936
+title: 아이패드로 코딩하기
+date: 2019-07-22T19:20:55+09:00
+author: yongjin0802
+layout: revision
+guid: https://yongj.in/2019/07/22/803-revision-v1/
+permalink: /2019/07/22/803-revision-v1/
+---
+### 웹에서 코딩하기
+
+codesandbox.io 나 구름 ide를 사용할 수 있다.
+
+하지만 사파리에서 VS Code나 기타 에디터 사용 시 방향키 입력이 제대로 되지 않아 정상적인 사용이 불가능하다.  
+
+
+### 앱에서 코딩하기
+
+#### 1. Pythonista<figure class="wp-block-image">
+
+<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700687.jpg" alt="" class="wp-image-804" srcset="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700687.jpg 960w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700687-300x225.jpg 300w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700687-768x575.jpg 768w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700687-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
+
+아이패드 프로그래밍 앱 중에서 가장 퀄리티가 좋은 앱
+
+파이썬과 수학, 그래프, 게임, UI 라이브러리들을 구동할 수 있다.
+
+가격은 12000원으로 다소 높은 편이지만 다른 앱에서는 찾기 힘든 편리한 자동완성 기능을 가지고 있기에 충분히 값어치 한다.
+
+#### 2.  **Pico Compiler**<figure class="wp-block-image">
+
+<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700091.jpg" alt="" class="wp-image-805" srcset="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700091.jpg 960w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700091-300x225.jpg 300w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700091-768x575.jpg 768w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700091-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
+
+(돈 내면) 오프라인 사용가능한 자바 컴파일러
+
+자바가 돌아가는 거에 만족해야하는 앱
+
+텍스트에디터에 문법강조 기능만 있다. 
+
+**3. C/C++**<figure class="wp-block-image">
+
+<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192659575.jpg" alt="" class="wp-image-806" srcset="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192659575.jpg 960w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192659575-300x225.jpg 300w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192659575-768x575.jpg 768w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192659575-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
+
+C / C++ 실행가능한 앱
+
+다만 최신 버전의 C++은 사용할 수 없다.
+
+(돈 내면 쓸 수 있는) 자동완성 기능, 테마 커스터마이징 기능이 있다.
+
+Pythonista를 제외하곤 아이패드 코딩앱들은 코드를 실행시켜 볼 수 있다는 점에만 만족해야 한다.
+
+코드작성에 도움을 주는 기능이 부족하다. 
+
+#### 4. JavaScript Coding<figure class="wp-block-image">
+
+<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193134070.jpg" alt="" class="wp-image-807" srcset="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193134070.jpg 960w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193134070-300x225.jpg 300w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193134070-768x575.jpg 768w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193134070-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
+
+자바스크립트를 실행하고 결과를 콘솔로 볼 수 있는 앱
+
+문법 강조가 된다.
+
+아이폰앱을 화면만 확장한 앱이라 사용이 부자연스럽다.
+
+#### 5. JS Anywhere<figure class="wp-block-image">
+
+<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193135752.jpg" alt="" class="wp-image-808" /> </figure> 
+
+JS / HTML / CSS 코드를 작성하고 결과를 내장브라우저로 볼 수 있는 앱
+
+실행할 수 있다는 점은 맘에 드나 메모장에 대고 코딩하는 것과 다름 없는 에디터가 안습이다.
+
+#### 6. MIHTool<figure class="wp-block-image is-resized">
+
+<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193136427.jpg" alt="" class="wp-image-809" width="660" height="494" /> </figure> 
+
+아이패드의 웹 디버거다
+
+HTTP 요청과 HTML 요소를 보는데 사용한다.
+
+#### 7. Jayson  
+<figure class="wp-block-image">
+
+<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193137328.jpg" alt="" class="wp-image-810" /> </figure> 
+
+JSON 파일을 편하게 보기위해 사용한다.
+
+파일이나 링크를 앱에 붙여넣으면 JSON을 탐색할 수 있다.
+
+### 다른 컴퓨터에 접속해서 코딩하기
+
+#### 1. TeamViewer
+
+PC 원격제어앱이다.
+
+시작할 때 설정이 쉽다.
+
+아이패드에서 키보드 사용 시 esc 같은 메타키들이 문제없이 원격컴퓨터로 전송이 돼서 코드 작성 시 불편함이 없다.
+
+다만 데이터 소모가 커서 와이파이가 없으면 데이터 비용 부담이 크다. (1시간에 200mb 정도)
+
+화질도 낮고 입력지연이 있어서 사용하다보면 머리가 피곤해진다. 
+
+#### 2.  **blink shell**<figure class="wp-block-image">
+
+<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193132916.jpg" alt="" class="wp-image-811" /> </figure> 
+
+VPS를 빌려서 터미널로 접속하기
+
+현실적으로 가장 낫고 만족도도 높다.
+
+리눅스 운영체제의 기능을 온전히 사용할 수 있어서 프로그래밍 언어 제한이 없다.
+
+다만 GUI 사용이 불가능하고 코드 작성을 위해 vim이나 emacs를 익혀야한다.
+
+### 결론
+
+아이패드로 코딩을 안 하는게 낫다.
+
+노트북이 있으면 VS Code와 크롬만 있으면 되는데
+
+아이패드로 웹개발을 하려면 각각의 태스크를 위해 제대로 작동하지도 않고 사용하기 불편한 앱을 돈주고 다운받아서 써야한다.

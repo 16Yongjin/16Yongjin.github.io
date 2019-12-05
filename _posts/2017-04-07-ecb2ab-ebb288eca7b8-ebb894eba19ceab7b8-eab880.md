@@ -1,0 +1,25 @@
+---
+id: 8
+title: 첫 글
+date: 2017-04-07T12:42:17+09:00
+author: yongjinsite
+layout: post
+guid: https://yongjinsite.wordpress.com/?p=4
+permalink: '/2017/04/07/%ec%b2%ab-%eb%b2%88%ec%a7%b8-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ea%b8%80/'
+sharing_disabled:
+  - 'a:1:{i:0;i:1;}'
+switch_like_status:
+  - 'a:1:{i:0;i:0;}'
+image: /wp-content/uploads/2017/04/pexels-photo-30732.jpg
+categories:
+  - 기타
+---
+<p style="text-align:left;">
+      최근 읽은 책과 기사 그리고 오늘 들은 취업강의에서 자신의 이야기를 온라인에 남기는 것을 조언받았다. 그래서 오늘 워드프레스를 알게 되어 시작했다. 볼 사람은 없겠지만 이 글을 보고 있는 독자를 생각하면서 글을 써야되기에 문장 구조나 논리적 흐름 맞추느라 글을 쓰는게 힘든 것 같다.
+</p>
+
+<p style="text-align:left;">
+  계속 글을 올리면서 평소에 자주 나오는 의식의 흐름을 줄이고 상대방에게 내 생각을 잘 전달하는 법을 연습할 것이다.
+</p>
+
+<p style="text-align:left;">

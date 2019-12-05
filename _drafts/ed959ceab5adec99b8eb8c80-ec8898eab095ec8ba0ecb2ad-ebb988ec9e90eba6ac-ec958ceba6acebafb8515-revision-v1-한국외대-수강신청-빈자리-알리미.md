@@ -1,0 +1,36 @@
+---
+id: 852
+title: 한국외대 수강신청 빈자리 알리미
+date: 2019-04-21T15:14:52+09:00
+author: yongjin0802
+layout: revision
+guid: https://yongj.in/2019/04/21/515-revision-v1/
+permalink: /2019/04/21/515-revision-v1/
+---
+&nbsp;
+
+강의 빈자리가 나면 알람 울리는 앱을 혼자 쓸려고 만들었다가
+
+파이어베이스로 크롬에 universial하게 알람 메시지를 보낼 수 있다는 것을 알고
+
+앞단과 뒷단을 부랴부랴 만들었다.
+
+앞단은 vue.js로 만들었는데 코드 짠 거 보면 남에게 보여주기엔 너무 민망하다.
+
+기능을 컴포넌트 파일 별로 나눠서 만들어야 됐는데 부모-자식 간 데이터 교환을 신경쓰는게 너무 귀찮아서 html 파일 하나 js 파일 하나에 다 몰아넣었다.
+
+뒷단은 속도를 탓하며 es6 class로 유저 데이터를 저장하고 있는데 사실 db를 사용할 줄 몰라서 그런다.
+
+그래도 학교 서버에서 강의 데이터를 뽑아오는 함수는 강건하게 작성했고
+
+서버엔 https와 클라이언트엔 bootstrap-select도 잘 적용했다.
+
+&nbsp;
+
+http 접속을 https로 돌려야되는데 계속 미루고 있다.
+
+https://hufs-lecture-alert.yjdev.com
+
+&nbsp;
+
+&nbsp;

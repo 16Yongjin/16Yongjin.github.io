@@ -1,0 +1,40 @@
+---
+id: 665
+title: VS Code에서 Phoenix 프레임워크의 eex 템플릿에 Emmet 사용하기
+date: 2018-01-12T17:34:49+09:00
+author: yongjinsite
+layout: post
+guid: https://yongjinsite.wordpress.com/?p=665
+permalink: '/2018/01/12/vs-code%ec%97%90%ec%84%9c-phoenix-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac%ec%9d%98-eex-%ed%85%9c%ed%94%8c%eb%a6%bf%ec%97%90-emmet-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/'
+categories:
+  - Development
+tags:
+  - eex
+  - Phoenix
+---
+<div>
+  cmd + , 로 사용자 설정 파일을 열고
+</div>
+
+<pre>"files.associations": {
+        "*.eex": "ejs"
+    },
+</pre>
+
+<pre>"emmet.includeLanguages": {
+        "ejs": "html"
+    }</pre>
+
+<div>
+   이 두 줄을 추가해준다.
+</div>
+
+<div>
+  <img class="alignnone size-full wp-image-666" src="https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-32-58.png" alt="스크린샷 2018-01-12 오후 5.32.58" width="1432" height="332" srcset="https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-32-58.png 1432w, https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-32-58-300x70.png 300w, https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-32-58-768x178.png 768w, https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-32-58-1024x237.png 1024w, https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-32-58-1000x232.png 1000w, https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-32-58-800x185.png 800w" sizes="(max-width: 1432px) 100vw, 1432px" /><img class="alignnone size-full wp-image-667" src="https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-33-14.png" alt="스크린샷 2018-01-12 오후 5.33.14" width="1370" height="398" srcset="https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-33-14.png 1370w, https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-33-14-300x87.png 300w, https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-33-14-768x223.png 768w, https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-33-14-1024x297.png 1024w, https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-33-14-1000x291.png 1000w, https://yongj.in/wp-content/uploads/2018/01/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-01-12-e1848be185a9e18492e185ae-5-33-14-800x232.png 800w" sizes="(max-width: 1370px) 100vw, 1370px" />
+</div>
+
+<div>
+  emmet 이 잘 작동한다.
+</div>
+
+&nbsp;

@@ -1,0 +1,187 @@
+---
+id: 972
+title: 19-2 한국외대 수강신청 빈자리 알람
+date: 2019-09-06T20:46:36+09:00
+author: yongjin0802
+layout: post
+guid: https://yongj.in/?p=972
+permalink: '/2019/09/06/19-2-%ed%95%9c%ea%b5%ad%ec%99%b8%eb%8c%80-%ec%88%98%ea%b0%95%ec%8b%a0%ec%b2%ad-%eb%b9%88%ec%9e%90%eb%a6%ac-%ec%95%8c%eb%9e%8c/'
+categories:
+  - Development
+  - Flutter
+  - Web Programming
+tags:
+  - Android
+  - Flutter
+  - Functional Programming
+  - Scala
+  - Svelte
+---
+<figure class="wp-block-image"><img src="https://i1.wp.com/yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1.png?fit=840%2C410&ssl=1" alt="" class="wp-image-973" srcset="https://yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1.png 1024w, https://yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-300x146.png 300w, https://yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-768x375.png 768w, https://yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-1000x488.png 1000w, https://yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-614x300.png 614w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> 
+
+5학기 째 만들고 있는 빈자리 알람이다.
+
+**서버: Scala / 앱: Flutter / 웹: Svelte / 배포: Docker**
+
+위의 한 줄을 적기 위해 2달 동안 고생했다.
+
+## Scala 서버 제작
+
+<ul class="wp-block-gallery columns-1 is-cropped">
+  <li class="blocks-gallery-item">
+    <figure><img src="https://yongj.in/wp-content/uploads/2019/09/강의알람서버다이어그램.png" alt="" data-id="983" data-link="https://yongj.in/?attachment_id=983" class="wp-image-983" srcset="https://yongj.in/wp-content/uploads/2019/09/강의알람서버다이어그램.png 701w, https://yongj.in/wp-content/uploads/2019/09/강의알람서버다이어그램-300x146.png 300w, https://yongj.in/wp-content/uploads/2019/09/강의알람서버다이어그램-615x300.png 615w" sizes="(max-width: 701px) 100vw, 701px" /></figure>
+  </li>
+</ul>
+
+[Typelevel Stack](https://github.com/profunktor/typelevel-stack.g8)을 기반했다.
+
+Typelevel Stack의 구성요소인 [Http4s](http://http4s.org/) / [Doobie](http://tpolecat.github.io/doobie/) / [Circe](https://circe.github.io/circe/) / [Cats Effect](https://github.com/typelevel/cats-effect) / [Fs2](https://github.com/functional-streams-for-scala/fs2) 와
+
+DB로 사용하는 PostgreSQL을 하나도 몰라서 튜토리얼을 보고 하나씩 정복했다.
+
+DB에 쿼리하는 리포지터리, 리포지터리에서 가져온 데이터를 다루는 서비스
+
+서버요청을 서비스로 처리하는 라우터, 서버와 클라이언트 자원을 할당하는 빌더로 이루어져있다.
+
+### 기억에 남는 것
+
+#### 모나드 트랜스포머 (OptionT, EitherT)
+
+IO[Option[List[Lecture]]] 타입 속 List[Lecture]을 가져오기 위해 IO와 Option 모나드 두 겹을 map 두 번으로 뚫어야 해서 코드가 뚱뚱해졌다.
+
+모나드 트랜스포머인 OptionT를 사용하니 map 한 번으로 내부 타입에 도달할 수 있어서 코드가 날씬해졌다.
+
+#### 2초에 한 번 함수를 실행하는 스트림
+
+<pre class="wp-block-preformatted scala"><span style="color: #0000ff; font-weight: bold;">def</span> currentHour <span style="color: #000080;">=</span> Calendar.<span style="color: #000000;">getInstance</span><span style="color: #F78811;">(</span><span style="color: #F78811;">)</span>.<span style="color: #000000;">get</span><span style="color: #F78811;">(</span>Calendar.<span style="color: #000000;">HOUR_OF_DAY</span><span style="color: #F78811;">)</span>
+&nbsp;
+<span style="color: #0000ff; font-weight: bold;">def</span> timeFilter <span style="color: #000080;">=</span> <span style="color: #F78811;">9</span> to <span style="color: #F78811;">16</span> contains currentHour
+&nbsp;
+<span style="color: #0000ff; font-weight: bold;">def</span> loop<span style="color: #F78811;">(</span>f<span style="color: #000080;">:</span> IO<span style="color: #F78811;">[</span>Unit<span style="color: #F78811;">]</span><span style="color: #F78811;">)</span><span style="color: #000080;">:</span> IO<span style="color: #F78811;">[</span>Unit<span style="color: #F78811;">]</span> <span style="color: #000080;">=</span> <span style="color: #F78811;">{</span>
+  Stream
+    .<span style="color: #000000;">repeatEval</span><span style="color: #F78811;">(</span>f<span style="color: #F78811;">)</span>
+    .<span style="color: #000000;">zipLeft</span><span style="color: #F78811;">(</span>Stream.<span style="color: #000000;">awakeEvery</span><span style="color: #F78811;">[</span>IO<span style="color: #F78811;">]</span><span style="color: #F78811;">(</span><span style="color: #F78811;">2</span>.<span style="color: #000000;">second</span><span style="color: #F78811;">)</span>.<span style="color: #000000;">filter</span><span style="color: #F78811;">(</span><span style="color: #000080;">_</span> <span style="color: #000080;">=&gt;</span> timeFilter<span style="color: #F78811;">)</span><span style="color: #F78811;">)</span>
+    .<span style="color: #000000;">compile</span>
+    .<span style="color: #000000;">drain</span>
+<span style="color: #F78811;">}</span></pre>
+
+repeatEval(f)와 awakeEvery(2초)를 조합해서 만들었다.
+
+9 &#8211; 16시 사이에만 함수를 실행하기 위해 awakeEvery에 timeFilter를 추가했다.
+
+(repeatEval이나 compile 뒤에 추가했을 때는 필터가 작동 안 한다.)
+
+#### Applicative로 JSON 폼 데이터 검증
+
+ValidatedNel과 mapN을 사용해서 폼 데이터를 검증했는데 나중에 자세히 다뤄야겠다.
+
+#### parTraverse로 병렬 실행
+
+그냥 Traverse는 동기 순차적 실행이 돼서 parTraverse를 사용해서 병렬 실행되는 코드를 작성했다.
+
+cats-par 라이브러리를 추가 후 F[_]: Parallel로 F가 병렬 실행 가능함을 컴파일러에게 알렸다.
+
+#### 도커로 배포하기
+
+  1. Sbt Docker 플러그인을 추가
+  2. Sbt Assembly 플러그인 추가 (jar 파일 생성용)
+  3. build.sbt에 도커 설정
+  4. 생성된 이미지 도커허브에 배포
+  5. 서버에서 아래의 docker-compose.yaml 파일 작성 후 빌드, 실행
+
+[gist https://gist.github.com/16Yongjin/5a891cfb942ee2d962c61b4ac94aafdc /]
+
+app 필드의 links로 DB와 서버를 연결하고 
+
+postgres 필드의 volumes로 이미지가 바뀌어도 데이터는 유지되도록 했다.
+
+추가로 TZ: &#8220;Asia/Seoul&#8221;을 environment에 넣어야 컨테이너의 시간이 바뀐다.
+
+스칼라에서 시간을 가져올 때 Local.KOREAN 옵션을 넣어도 무조건 한국 시간이 나오는 게 아니기 때문이다.
+
+## Flutter 안드로이드 앱 제작<figure class="wp-block-image">
+
+<img src="https://i0.wp.com/yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2.png?fit=840%2C757&ssl=1" alt="" class="wp-image-980" srcset="https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2.png 1292w, https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-300x270.png 300w, https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-768x692.png 768w, https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-1024x923.png 1024w, https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-1000x901.png 1000w, https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-333x300.png 333w" sizes="(max-width: 1292px) 100vw, 1292px" /> </figure> 
+
+하루에 2시간 씩 4일만에 뚝딱 만들었다.
+
+#### Bottom Appbar 사용
+
+UX의 운하 같다. 접근성과 UX흐름에 좋다.
+
+#### 서버와 데이터 동기화
+
+WidgetsBindingObserver로 라이프사이클에 onResume 이벤트를 등록해서
+
+서버와 클라이언트의 알람 데이터를 동기화했다
+
+#### 알람 로고 & 그래픽 이미지
+
+<div class="wp-block-image">
+  <figure class="aligncenter"><img src="https://yongj.in/wp-content/uploads/2019/09/noti-icon1.png" alt="" class="wp-image-986" srcset="https://yongj.in/wp-content/uploads/2019/09/noti-icon1.png 128w, https://yongj.in/wp-content/uploads/2019/09/noti-icon1-85x85.png 85w" sizes="(max-width: 128px) 100vw, 128px" /></figure>
+</div>
+
+앱보다 로고에 더 힘줬다.
+
+Figma로 로고를 만들고
+
+[Android Feature Graphic Generator](https://www.norio.be/android-feature-graphic-generator/) 로 그래픽 이미지를 만들었다.
+
+## Svelte + Bulma 웹앱 제작
+
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular">
+  <div class="tiled-gallery__gallery">
+    <div class="tiled-gallery__row">
+      <div class="tiled-gallery__col">
+        <figure class="tiled-gallery__item"><img alt="" data-height="2880" data-id="984" data-link="https://yongj.in/?attachment_id=984" data-url="https://yongj.in/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-11.png" data-width="1440" src="https://i2.wp.com/yongj.in/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-11.png?ssl=1" /></figure>
+      </div>
+      
+      <div class="tiled-gallery__col">
+        <figure class="tiled-gallery__item"><img alt="" data-height="2880" data-id="985" data-link="https://yongj.in/?attachment_id=985" data-url="https://yongj.in/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-45.png" data-width="1440" src="https://i1.wp.com/yongj.in/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-45.png?ssl=1" /></figure>
+      </div>
+    </div>
+  </div>
+</div>
+
+#### Svelte를 사용한 이유
+
+VDom은 VDom 초기 코드 로딩& 파싱 시간과 런타임에서 돔 조작 전 요소 비교하는 비용이 크다.
+
+Svelte는 코드를 컴파일해서 실행하기 때문에 VDom이 없다.
+
+VDom 초기 실행 시간과 돔 비교가 없으므로 가볍고 빠르다.
+
+$: 으로 시작하는 반응형 변수 덕분에 써야될 코드가 적다.
+
+## 프로젝트 결과
+
+실패했다.
+
+정확히는 테스팅과 모니터링의 부족으로 스칼라 서버가 실패했다.
+
+FCM을 보내는 기능이 1시간에 한번씩 멈추는데
+
+그와 동시에 repeatEval 스트림도 막혀버리고 
+
+2초마다 실행되는 알람 서비스도 멈췄다.
+
+이를 해결하기 위해
+
+  1. 크론잡으로 30분에 한 번씩 서버를 재시작하기
+  2. FCM 서버 요청 시 expect 대신 expectOption 메서드 사용하기 
+  3. 클라이언트 빌더에 응답시간 제한 걸기 등
+
+임시적인 방법을 시도해봤지만 먹히지 않았다.
+
+임시방편으로 버그를 잡으려다 수강정정기간 5일 중 4일을 날려버리고
+
+기존 API를 유지하면서 Node로 서버를 재작성해서 금요일은 알람을 정상적으로 사용할 수 있었다. (npm init부터 docker-compose up까지 3시간만에 끝냈다.)
+
+내 앱을 믿고 쓴 20명에게 미안한 마음이 든다..
+
+담엔 이런 일이 절대 없도록 하기 위해 다음을 반드시 하겠다.
+
+  1. **앱 운영기간만큼 도그푸딩하면서 테스트하는 기간을 갖기**
+  2. **이상을 명확히 확인 후 내게 알람을 보내고 서버를 재시작하는 로직 포함**
+
+다음엔 반드시 성공한다.
