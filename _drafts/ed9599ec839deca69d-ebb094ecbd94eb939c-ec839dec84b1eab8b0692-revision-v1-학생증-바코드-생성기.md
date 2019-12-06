@@ -7,7 +7,7 @@ layout: revision
 guid: https://yongj.in/2019/04/21/692-revision-v1/
 permalink: /2019/04/21/692-revision-v1/
 ---
-<img class="  wp-image-693 aligncenter" src="https://yongj.in/wp-content/uploads/2018/03/screenshot-2018-3-16.png" alt="Screenshot (2018. 3. 16" width="304" height="542" srcset="https://yongj.in/wp-content/uploads/2018/03/screenshot-2018-3-16.png 1440w, https://yongj.in/wp-content/uploads/2018/03/screenshot-2018-3-16-168x300.png 168w, https://yongj.in/wp-content/uploads/2018/03/screenshot-2018-3-16-768x1370.png 768w, https://yongj.in/wp-content/uploads/2018/03/screenshot-2018-3-16-574x1024.png 574w, https://yongj.in/wp-content/uploads/2018/03/screenshot-2018-3-16-1000x1784.png 1000w" sizes="(max-width: 304px) 100vw, 304px" />
+<img class="  wp-image-693 aligncenter" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2018/03/screenshot-2018-3-16.png" alt="Screenshot (2018. 3. 16" width="304" height="542" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2018/03/screenshot-2018-3-16.png 1440w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2018/03/screenshot-2018-3-16-168x300.png 168w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2018/03/screenshot-2018-3-16-768x1370.png 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2018/03/screenshot-2018-3-16-574x1024.png 574w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2018/03/screenshot-2018-3-16-1000x1784.png 1000w" sizes="(max-width: 304px) 100vw, 304px" />
 
 https://hufs.surge.sh
 

@@ -12,9 +12,10 @@ tags:
   - Hough
   - MatLab
 ---
+
 Udacity의 Intoduction to Computer Vision에서 퍼옴.
 
-<img class="alignnone size-full wp-image-126" src="https://yongj.in/wp-content/uploads/2017/04/brazil.png" alt="Brazil.png" width="512" height="512" srcset="https://yongj.in/wp-content/uploads/2017/04/brazil.png 512w, https://yongj.in/wp-content/uploads/2017/04/brazil-150x150.png 150w, https://yongj.in/wp-content/uploads/2017/04/brazil-300x300.png 300w, https://yongj.in/wp-content/uploads/2017/04/brazil-85x85.png 85w" sizes="(max-width: 512px) 100vw, 512px" /> 
+<img class="alignnone size-full wp-image-126" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/brazil.png" alt="Brazil.png" width="512" height="512" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/brazil.png 512w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/brazil-150x150.png 150w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/brazil-300x300.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/brazil-85x85.png 85w" sizes="(max-width: 512px) 100vw, 512px" /> 
 
 이렇게 생긴 이미지에서 선을 검출하기
 
@@ -30,7 +31,7 @@ edge = edge(g, &#8216;canny&#8217;);
 
 모서리들을 뽑아낸다.
 
-<img class="alignnone size-full wp-image-132" src="https://yongj.in/wp-content/uploads/2017/04/2.png" alt="2.png" width="746" height="650" srcset="https://yongj.in/wp-content/uploads/2017/04/2.png 746w, https://yongj.in/wp-content/uploads/2017/04/2-300x261.png 300w, https://yongj.in/wp-content/uploads/2017/04/2-344x300.png 344w" sizes="(max-width: 746px) 100vw, 746px" /> 
+<img class="alignnone size-full wp-image-132" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/2.png" alt="2.png" width="746" height="650" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/2.png 746w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/2-300x261.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/2-344x300.png 344w" sizes="(max-width: 746px) 100vw, 746px" /> 
 
 이제
 
@@ -44,7 +45,7 @@ edge = edge(g, &#8216;canny&#8217;);
 
 즉 한 점이 나타낼 수 있는 모든 직선을 표현함
 
-<img class="alignnone size-full wp-image-150" src="https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24.png" alt="스크린샷 2017-04-16 오후 8.19.24.png" width="2560" height="1600" srcset="https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24.png 2560w, https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24-300x188.png 300w, https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24-768x480.png 768w, https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24-1024x640.png 1024w, https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24-1000x625.png 1000w, https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24-480x300.png 480w" sizes="(max-width: 2560px) 100vw, 2560px" /> 
+<img class="alignnone size-full wp-image-150" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24.png" alt="스크린샷 2017-04-16 오후 8.19.24.png" width="2560" height="1600" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24.png 2560w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24-300x188.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24-768x480.png 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24-1024x640.png 1024w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24-1000x625.png 1000w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-19-24-480x300.png 480w" sizes="(max-width: 2560px) 100vw, 2560px" /> 
 
 Hough space에서 겹치는 부분이 각 점의 공통 직선을 나타냄
 
@@ -52,7 +53,7 @@ Hough space에서 겹치는 부분이 각 점의 공통 직선을 나타냄
 
 그래서 Hough 공간 구할 때 다른 방식을 씀
 
-<img class="alignnone size-full wp-image-164" src="https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40.png" alt="스크린샷 2017-04-16 오후 8.27.40.png" width="2560" height="1600" srcset="https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40.png 2560w, https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40-300x188.png 300w, https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40-768x480.png 768w, https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40-1024x640.png 1024w, https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40-1000x625.png 1000w, https://yongj.in/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40-480x300.png 480w" sizes="(max-width: 2560px) 100vw, 2560px" /> 
+<img class="alignnone size-full wp-image-164" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40.png" alt="스크린샷 2017-04-16 오후 8.27.40.png" width="2560" height="1600" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40.png 2560w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40-300x188.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40-768x480.png 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40-1024x640.png 1024w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40-1000x625.png 1000w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/ec8aa4ed81aceba6b0ec83b7-2017-04-16-ec98a4ed9b84-8-27-40-480x300.png 480w" sizes="(max-width: 2560px) 100vw, 2560px" /> 
 
 공통 직선을 표현하기 위해
 
@@ -72,7 +73,7 @@ hough transform equation라는 걸 쓴다.
 
 여기서
 
-<img class="alignnone size-full wp-image-196" src="https://yongj.in/wp-content/uploads/2017/04/hough2.png" alt="hough.png" width="1600" height="1200" srcset="https://yongj.in/wp-content/uploads/2017/04/hough2.png 1600w, https://yongj.in/wp-content/uploads/2017/04/hough2-300x225.png 300w, https://yongj.in/wp-content/uploads/2017/04/hough2-768x576.png 768w, https://yongj.in/wp-content/uploads/2017/04/hough2-1024x768.png 1024w, https://yongj.in/wp-content/uploads/2017/04/hough2-1000x750.png 1000w, https://yongj.in/wp-content/uploads/2017/04/hough2-400x300.png 400w" sizes="(max-width: 1600px) 100vw, 1600px" /> 
+<img class="alignnone size-full wp-image-196" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/hough2.png" alt="hough.png" width="1600" height="1200" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/hough2.png 1600w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/hough2-300x225.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/hough2-768x576.png 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/hough2-1024x768.png 1024w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/hough2-1000x750.png 1000w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/hough2-400x300.png 400w" sizes="(max-width: 1600px) 100vw, 1600px" /> 
 
 (문송합니다.)
 
@@ -108,7 +109,7 @@ peaks = houghpeaks(accum, 100);
 
 hold on; plot(theta(peaks(:,2)), rho(peaks(:, 1)), &#8216;rs&#8217;); hold off;
 
-<img class="alignnone size-full wp-image-224" src="https://yongj.in/wp-content/uploads/2017/04/1.png" alt="1.png" width="1120" height="840" srcset="https://yongj.in/wp-content/uploads/2017/04/1.png 1120w, https://yongj.in/wp-content/uploads/2017/04/1-300x225.png 300w, https://yongj.in/wp-content/uploads/2017/04/1-768x576.png 768w, https://yongj.in/wp-content/uploads/2017/04/1-1024x768.png 1024w, https://yongj.in/wp-content/uploads/2017/04/1-1000x750.png 1000w, https://yongj.in/wp-content/uploads/2017/04/1-400x300.png 400w" sizes="(max-width: 1120px) 100vw, 1120px" /> 
+<img class="alignnone size-full wp-image-224" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/1.png" alt="1.png" width="1120" height="840" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/1.png 1120w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/1-300x225.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/1-768x576.png 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/1-1024x768.png 1024w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/1-1000x750.png 1000w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/1-400x300.png 400w" sizes="(max-width: 1120px) 100vw, 1120px" /> 
 
 여기의 빨간 점들을 원본 그림의 직선으로 나타내면
 
@@ -116,6 +117,6 @@ line_segs = houghlines(edge, theta, rho, peaks);
 
 figure, imshow(img), title(&#8216;Line segments&#8217;);
 
-<img class="alignnone size-full wp-image-230" src="https://yongj.in/wp-content/uploads/2017/04/3.png" alt="3.png" width="746" height="650" srcset="https://yongj.in/wp-content/uploads/2017/04/3.png 746w, https://yongj.in/wp-content/uploads/2017/04/3-300x261.png 300w, https://yongj.in/wp-content/uploads/2017/04/3-344x300.png 344w" sizes="(max-width: 746px) 100vw, 746px" /> 
+<img class="alignnone size-full wp-image-230" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/3.png" alt="3.png" width="746" height="650" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/3.png 746w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/3-300x261.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/3-344x300.png 344w" sizes="(max-width: 746px) 100vw, 746px" /> 
 
 임계점을 너무 높게 잡아서 안쪽 직선이 안 잡힌것 같지만 여튼 이렇게 된다.

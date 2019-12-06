@@ -13,7 +13,7 @@ permalink: /2019/04/21/246-revision-v1/
 
 여기를 참고 했다.
 
-<img src="https://yongj.in/wp-content/uploads/2017/04/kakaotalk_20170421_212141455-e1492870559437.jpg" alt="KakaoTalk_20170421_212141455.jpg" width="540" height="747" class="aligncenter size-full wp-image-252" srcset="https://yongj.in/wp-content/uploads/2017/04/kakaotalk_20170421_212141455-e1492870559437.jpg 540w, https://yongj.in/wp-content/uploads/2017/04/kakaotalk_20170421_212141455-e1492870559437-217x300.jpg 217w" sizes="(max-width: 540px) 100vw, 540px" /> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/kakaotalk_20170421_212141455-e1492870559437.jpg" alt="KakaoTalk_20170421_212141455.jpg" width="540" height="747" class="aligncenter size-full wp-image-252" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/kakaotalk_20170421_212141455-e1492870559437.jpg 540w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/04/kakaotalk_20170421_212141455-e1492870559437-217x300.jpg 217w" sizes="(max-width: 540px) 100vw, 540px" /> 
 
 
 

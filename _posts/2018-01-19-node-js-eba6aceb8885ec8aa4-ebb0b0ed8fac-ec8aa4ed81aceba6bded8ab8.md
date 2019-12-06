@@ -18,7 +18,7 @@ tags:
 [code language=&#8221;shell&#8221;]  
 \# 맥에서  
 $ vim deploy.sh  
-~~~~~  
+```bash
 #!/bin/bash  
 APP_NAME=&#8217;앱이름&#8217;  
 tar -czf $APP_NAME.tar.gz app.js package.json  
@@ -40,12 +40,13 @@ npm install
 pm2 start app.js &#8211;name $APP_NAME
 
 ENDSSH  
-~~~~  
+
 ESC, :wq, ENTER
 
 $ chmod +x deploy.sh  
 $ ./deploy.sh  
-[/code]
+```
+
 
 <div>
 </div>

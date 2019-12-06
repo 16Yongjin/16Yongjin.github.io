@@ -7,7 +7,7 @@ layout: revision
 guid: https://yongj.in/2019/09/06/972-revision-v1/
 permalink: /2019/09/06/972-revision-v1/
 ---
-<figure class="wp-block-image"><img src="https://i1.wp.com/yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1.png?fit=840%2C410&ssl=1" alt="" class="wp-image-973" srcset="https://yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1.png 1024w, https://yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-300x146.png 300w, https://yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-768x375.png 768w, https://yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-1000x488.png 1000w, https://yongj.in/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-614x300.png 614w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> 
+<figure class="wp-block-image"><img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1.png?fit=840%2C410&ssl=1" alt="" class="wp-image-973" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1.png 1024w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-300x146.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-768x375.png 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-1000x488.png 1000w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/빈자리-알람-feature-graphic1-614x300.png 614w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> 
 
 5학기 째 만들고 있는 빈자리 알람이다.
 
@@ -19,7 +19,7 @@ permalink: /2019/09/06/972-revision-v1/
 
 <ul class="wp-block-gallery columns-1 is-cropped">
   <li class="blocks-gallery-item">
-    <figure><img src="https://yongj.in/wp-content/uploads/2019/09/강의알람서버다이어그램.png" alt="" data-id="983" data-link="https://yongj.in/?attachment_id=983" class="wp-image-983" srcset="https://yongj.in/wp-content/uploads/2019/09/강의알람서버다이어그램.png 701w, https://yongj.in/wp-content/uploads/2019/09/강의알람서버다이어그램-300x146.png 300w, https://yongj.in/wp-content/uploads/2019/09/강의알람서버다이어그램-615x300.png 615w" sizes="(max-width: 701px) 100vw, 701px" /></figure>
+    <figure><img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람서버다이어그램.png" alt="" data-id="983" data-link="https://yongj.in/?attachment_id=983" class="wp-image-983" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람서버다이어그램.png 701w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람서버다이어그램-300x146.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람서버다이어그램-615x300.png 615w" sizes="(max-width: 701px) 100vw, 701px" /></figure>
   </li>
 </ul>
 
@@ -91,7 +91,7 @@ postgres 필드의 volumes로 이미지가 바뀌어도 데이터는 유지되�
 
 ## Flutter 안드로이드 앱 제작<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2.png?fit=840%2C757&ssl=1" alt="" class="wp-image-980" srcset="https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2.png 1292w, https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-300x270.png 300w, https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-768x692.png 768w, https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-1024x923.png 1024w, https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-1000x901.png 1000w, https://yongj.in/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-333x300.png 333w" sizes="(max-width: 1292px) 100vw, 1292px" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2.png?fit=840%2C757&ssl=1" alt="" class="wp-image-980" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2.png 1292w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-300x270.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-768x692.png 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-1024x923.png 1024w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-1000x901.png 1000w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/강의알람앱소개화면캡쳐2-333x300.png 333w" sizes="(max-width: 1292px) 100vw, 1292px" /> </figure> 
 
 하루에 2시간 씩 4일만에 뚝딱 만들었다.
 
@@ -108,7 +108,7 @@ WidgetsBindingObserver로 라이프사이클에 onResume 이벤트를 등록해�
 #### 알람 로고 & 그래픽 이미지
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://yongj.in/wp-content/uploads/2019/09/noti-icon1.png" alt="" class="wp-image-986" srcset="https://yongj.in/wp-content/uploads/2019/09/noti-icon1.png 128w, https://yongj.in/wp-content/uploads/2019/09/noti-icon1-85x85.png 85w" sizes="(max-width: 128px) 100vw, 128px" /></figure>
+  <figure class="aligncenter"><img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/noti-icon1.png" alt="" class="wp-image-986" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/noti-icon1.png 128w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/noti-icon1-85x85.png 85w" sizes="(max-width: 128px) 100vw, 128px" /></figure>
 </div>
 
 앱보다 로고에 더 힘줬다.
@@ -123,11 +123,11 @@ Figma로 로고를 만들고
   <div class="tiled-gallery__gallery">
     <div class="tiled-gallery__row">
       <div class="tiled-gallery__col">
-        <figure class="tiled-gallery__item"><img alt="" data-height="2880" data-id="984" data-link="https://yongj.in/?attachment_id=984" data-url="https://yongj.in/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-11.png" data-width="1440" src="https://i2.wp.com/yongj.in/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-11.png?ssl=1" /></figure>
+        <figure class="tiled-gallery__item"><img alt="" data-height="2880" data-id="984" data-link="https://yongj.in/?attachment_id=984" data-url="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-11.png" data-width="1440" src="https://i2.wp.com/yongj.in/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-11.png?ssl=1" /></figure>
       </div>
       
       <div class="tiled-gallery__col">
-        <figure class="tiled-gallery__item"><img alt="" data-height="2880" data-id="985" data-link="https://yongj.in/?attachment_id=985" data-url="https://yongj.in/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-45.png" data-width="1440" src="https://i1.wp.com/yongj.in/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-45.png?ssl=1" /></figure>
+        <figure class="tiled-gallery__item"><img alt="" data-height="2880" data-id="985" data-link="https://yongj.in/?attachment_id=985" data-url="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-45.png" data-width="1440" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/09/Screenshot_2019-09-06-19-18-45.png?ssl=1" /></figure>
       </div>
     </div>
   </div>

@@ -18,7 +18,7 @@ codesandbox.io 나 구름 ide를 사용할 수 있다.
 
 #### 1. Pythonista<figure class="wp-block-image">
 
-<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700687.jpg" alt="" class="wp-image-804" srcset="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700687.jpg 960w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700687-300x225.jpg 300w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700687-768x575.jpg 768w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700687-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192700687.jpg" alt="" class="wp-image-804" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192700687.jpg 960w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192700687-300x225.jpg 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192700687-768x575.jpg 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192700687-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
 
 아이패드 프로그래밍 앱 중에서 가장 퀄리티가 좋은 앱
 
@@ -28,7 +28,7 @@ codesandbox.io 나 구름 ide를 사용할 수 있다.
 
 #### 2.  **Pico Compiler**<figure class="wp-block-image">
 
-<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700091.jpg" alt="" class="wp-image-805" srcset="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700091.jpg 960w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700091-300x225.jpg 300w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700091-768x575.jpg 768w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192700091-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192700091.jpg" alt="" class="wp-image-805" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192700091.jpg 960w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192700091-300x225.jpg 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192700091-768x575.jpg 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192700091-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
 
 (돈 내면) 오프라인 사용가능한 자바 컴파일러
 
@@ -38,7 +38,7 @@ codesandbox.io 나 구름 ide를 사용할 수 있다.
 
 **3. C/C++**<figure class="wp-block-image">
 
-<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192659575.jpg" alt="" class="wp-image-806" srcset="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192659575.jpg 960w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192659575-300x225.jpg 300w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192659575-768x575.jpg 768w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_192659575-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192659575.jpg" alt="" class="wp-image-806" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192659575.jpg 960w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192659575-300x225.jpg 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192659575-768x575.jpg 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_192659575-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
 
 C / C++ 실행가능한 앱
 
@@ -52,7 +52,7 @@ Pythonista를 제외하곤 아이패드 코딩앱들은 코드를 실행시켜 �
 
 #### 4. JavaScript Coding<figure class="wp-block-image">
 
-<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193134070.jpg" alt="" class="wp-image-807" srcset="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193134070.jpg 960w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193134070-300x225.jpg 300w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193134070-768x575.jpg 768w, https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193134070-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_193134070.jpg" alt="" class="wp-image-807" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_193134070.jpg 960w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_193134070-300x225.jpg 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_193134070-768x575.jpg 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_193134070-401x300.jpg 401w" sizes="(max-width: 960px) 100vw, 960px" /> </figure> 
 
 자바스크립트를 실행하고 결과를 콘솔로 볼 수 있는 앱
 
@@ -62,7 +62,7 @@ Pythonista를 제외하곤 아이패드 코딩앱들은 코드를 실행시켜 �
 
 #### 5. JS Anywhere<figure class="wp-block-image">
 
-<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193135752.jpg" alt="" class="wp-image-808" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_193135752.jpg" alt="" class="wp-image-808" /> </figure> 
 
 JS / HTML / CSS 코드를 작성하고 결과를 내장브라우저로 볼 수 있는 앱
 
@@ -70,7 +70,7 @@ JS / HTML / CSS 코드를 작성하고 결과를 내장브라우저로 볼 수 �
 
 #### 6. MIHTool<figure class="wp-block-image is-resized">
 
-<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193136427.jpg" alt="" class="wp-image-809" width="660" height="494" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_193136427.jpg" alt="" class="wp-image-809" width="660" height="494" /> </figure> 
 
 아이패드의 웹 디버거다
 
@@ -79,7 +79,7 @@ HTTP 요청과 HTML 요소를 보는데 사용한다.
 #### 7. Jayson  
 <figure class="wp-block-image">
 
-<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193137328.jpg" alt="" class="wp-image-810" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_193137328.jpg" alt="" class="wp-image-810" /> </figure> 
 
 JSON 파일을 편하게 보기위해 사용한다.
 
@@ -101,7 +101,7 @@ PC 원격제어앱이다.
 
 #### 2.  **blink shell**<figure class="wp-block-image">
 
-<img src="https://yongj.in/wp-content/uploads/2019/04/kakaotalk_20190415_193132916.jpg" alt="" class="wp-image-811" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/04/kakaotalk_20190415_193132916.jpg" alt="" class="wp-image-811" /> </figure> 
 
 VPS를 빌려서 터미널로 접속하기
 

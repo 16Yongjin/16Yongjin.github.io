@@ -32,7 +32,7 @@ permalink: /2019/07/03/875-revision-v1/
   3. 오른쪽 마우스 클릭 &#8211; [새로 만들기] &#8211; [이진값 추가] 해서 Scancode Map 입력
   4. 아래의 값 입력<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/yongj.in/wp-content/uploads/2019/07/image-1.png?fit=840%2C522&ssl=1" alt="" class="wp-image-934" srcset="https://yongj.in/wp-content/uploads/2019/07/image-1.png 1243w, https://yongj.in/wp-content/uploads/2019/07/image-1-300x186.png 300w, https://yongj.in/wp-content/uploads/2019/07/image-1-768x477.png 768w, https://yongj.in/wp-content/uploads/2019/07/image-1-1024x636.png 1024w, https://yongj.in/wp-content/uploads/2019/07/image-1-1000x621.png 1000w, https://yongj.in/wp-content/uploads/2019/07/image-1-483x300.png 483w" sizes="(max-width: 1243px) 100vw, 1243px" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/07/image-1.png?fit=840%2C522&ssl=1" alt="" class="wp-image-934" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/07/image-1.png 1243w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/07/image-1-300x186.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/07/image-1-768x477.png 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/07/image-1-1024x636.png 1024w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/07/image-1-1000x621.png 1000w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/07/image-1-483x300.png 483w" sizes="(max-width: 1243px) 100vw, 1243px" /> </figure> 
 
 5. 재시작 또는 로그아웃 후 로그인 시 적용됨
 

@@ -15,19 +15,19 @@ permalink: /2019/04/21/433-revision-v1/
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://yongj.in/screenshot_2017-08-22-02-14-44/'><img width="150" height="150" src="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-14-44-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-14-44-150x150.png 150w, https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-14-44-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://yongj.in/screenshot_2017-08-22-02-14-44/'><img width="150" height="150" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-14-44-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-14-44-150x150.png 150w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-14-44-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://yongj.in/screenshot_2017-08-22-02-15-01/'><img width="150" height="150" src="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-01-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-01-150x150.png 150w, https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-01-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://yongj.in/screenshot_2017-08-22-02-15-01/'><img width="150" height="150" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-01-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-01-150x150.png 150w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-01-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://yongj.in/screenshot_2017-08-22-02-15-24/'><img width="150" height="150" src="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-24-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-24-150x150.png 150w, https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-24-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://yongj.in/screenshot_2017-08-22-02-15-24/'><img width="150" height="150" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-24-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-24-150x150.png 150w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-15-24-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://yongj.in/screenshot_2017-08-22-02-16-07/'><img width="150" height="150" src="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-07-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-07-150x150.png 150w, https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-07-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://yongj.in/screenshot_2017-08-22-02-16-07/'><img width="150" height="150" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-07-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-07-150x150.png 150w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-07-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure>
 </div>
 
@@ -47,7 +47,7 @@ vm이라는 신세계를 경험한 뒤 웹앱 만드는 거에 빠지기 시작�
 
 **2. 맞춤벗**
 
-<img class="  wp-image-472 aligncenter" src="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-03-12-10.png" alt="Screenshot_2017-08-22-03-12-10" width="327" height="581" srcset="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-03-12-10.png 720w, https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-03-12-10-169x300.png 169w, https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-03-12-10-576x1024.png 576w" sizes="(max-width: 327px) 100vw, 327px" /> 
+<img class="  wp-image-472 aligncenter" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-03-12-10.png" alt="Screenshot_2017-08-22-03-12-10" width="327" height="581" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-03-12-10.png 720w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-03-12-10-169x300.png 169w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-03-12-10-576x1024.png 576w" sizes="(max-width: 327px) 100vw, 327px" /> 
 
 &nbsp;
 
@@ -73,11 +73,11 @@ vm이라는 신세계를 경험한 뒤 웹앱 만드는 거에 빠지기 시작�
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://yongj.in/screenshot_2017-08-22-02-16-33/'><img width="150" height="150" src="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-33-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-33-150x150.png 150w, https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-33-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://yongj.in/screenshot_2017-08-22-02-16-33/'><img width="150" height="150" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-33-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-33-150x150.png 150w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-33-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://yongj.in/screenshot_2017-08-22-02-16-43/'><img width="150" height="150" src="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-43-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-43-150x150.png 150w, https://yongj.in/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-43-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://yongj.in/screenshot_2017-08-22-02-16-43/'><img width="150" height="150" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-43-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-43-150x150.png 150w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2017/08/screenshot_2017-08-22-02-16-43-85x85.png 85w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure>
 </div>
 

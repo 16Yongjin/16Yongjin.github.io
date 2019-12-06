@@ -10,6 +10,8 @@ tags:
   - Functional Programming
   - Scala
 ---
+스칼라의 타입 클래스 패턴 정리
+
 # 스칼라 타입 클래스 패턴은 3가지다.
 
   1. 타입 클래스

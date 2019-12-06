@@ -7,7 +7,7 @@ layout: revision
 guid: https://yongj.in/2019/04/21/689-revision-v1/
 permalink: /2019/04/21/689-revision-v1/
 ---
-<img class="  wp-image-690 aligncenter" src="https://yongj.in/wp-content/uploads/2018/03/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-03-04-e1848be185a9e18492e185ae-10-38-33.png" alt="스크린샷 2018-03-04 오후 10.38.33" width="307" height="559" srcset="https://yongj.in/wp-content/uploads/2018/03/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-03-04-e1848be185a9e18492e185ae-10-38-33.png 548w, https://yongj.in/wp-content/uploads/2018/03/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-03-04-e1848be185a9e18492e185ae-10-38-33-165x300.png 165w" sizes="(max-width: 307px) 100vw, 307px" />
+<img class="  wp-image-690 aligncenter" src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2018/03/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-03-04-e1848be185a9e18492e185ae-10-38-33.png" alt="스크린샷 2018-03-04 오후 10.38.33" width="307" height="559" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2018/03/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-03-04-e1848be185a9e18492e185ae-10-38-33.png 548w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2018/03/e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-03-04-e1848be185a9e18492e185ae-10-38-33-165x300.png 165w" sizes="(max-width: 307px) 100vw, 307px" />
 
 
 

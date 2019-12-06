@@ -21,10 +21,10 @@ permalink: /2019/05/19/884-revision-v1/
 Compute Engine 메뉴로 들가서 인스턴스(가상머신)를 만든다.
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://yongj.in/wp-content/uploads/2019/05/인스턴스만들기버튼.png" alt="" class="wp-image-887" /><figcaption>클릭</figcaption></figure>
+  <figure class="aligncenter"><img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/인스턴스만들기버튼.png" alt="" class="wp-image-887" /><figcaption>클릭</figcaption></figure>
 </div><figure class="wp-block-image">
 
-<img src="https://i2.wp.com/yongj.in/wp-content/uploads/2019/05/인스턴스만들기.png?fit=602%2C1024&ssl=1" alt="" class="wp-image-886" srcset="https://yongj.in/wp-content/uploads/2019/05/인스턴스만들기.png 758w, https://yongj.in/wp-content/uploads/2019/05/인스턴스만들기-176x300.png 176w, https://yongj.in/wp-content/uploads/2019/05/인스턴스만들기-602x1024.png 602w" sizes="(max-width: 758px) 100vw, 758px" /> <figcaption>인스턴스 설정 예시</figcaption></figure> 
+<img src="https://i2.wp.com/yongj.in/wp-content/uploads/2019/05/인스턴스만들기.png?fit=602%2C1024&ssl=1" alt="" class="wp-image-886" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/인스턴스만들기.png 758w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/인스턴스만들기-176x300.png 176w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/인스턴스만들기-602x1024.png 602w" sizes="(max-width: 758px) 100vw, 758px" /> <figcaption>인스턴스 설정 예시</figcaption></figure> 
 
 지역: 도쿄  
 운영체제: 우분투 18.04  
@@ -38,10 +38,10 @@ Compute Engine 메뉴로 들가서 인스턴스(가상머신)를 만든다.
 
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://yongj.in/wp-content/uploads/2019/05/방화벽규칙만들기버튼.png" alt="" class="wp-image-888" /><figcaption>클릭</figcaption></figure>
+  <figure class="aligncenter"><img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/방화벽규칙만들기버튼.png" alt="" class="wp-image-888" /><figcaption>클릭</figcaption></figure>
 </div><figure class="wp-block-image">
 
-<img src="https://yongj.in/wp-content/uploads/2019/05/방화벽규칙만들기.png" alt="" class="wp-image-889" srcset="https://yongj.in/wp-content/uploads/2019/05/방화벽규칙만들기.png 595w, https://yongj.in/wp-content/uploads/2019/05/방화벽규칙만들기-213x300.png 213w" sizes="(max-width: 595px) 100vw, 595px" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/방화벽규칙만들기.png" alt="" class="wp-image-889" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/방화벽규칙만들기.png 595w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/방화벽규칙만들기-213x300.png 213w" sizes="(max-width: 595px) 100vw, 595px" /> </figure> 
 
 이름: allow-torrent (아무거나 적는다.)  
 대상 태그: torrent  
@@ -58,7 +58,7 @@ VM 인스턴스 리스트에 있는 가상머신의 이름(instance-1)을 클릭
 
 상단의 수정 버튼으로 수정 모드로 들간 뒤<figure class="wp-block-image">
 
-<img src="https://yongj.in/wp-content/uploads/2019/05/네트워크태그설정.png" alt="" class="wp-image-890" srcset="https://yongj.in/wp-content/uploads/2019/05/네트워크태그설정.png 924w, https://yongj.in/wp-content/uploads/2019/05/네트워크태그설정-300x126.png 300w, https://yongj.in/wp-content/uploads/2019/05/네트워크태그설정-768x322.png 768w, https://yongj.in/wp-content/uploads/2019/05/네트워크태그설정-716x300.png 716w" sizes="(max-width: 924px) 100vw, 924px" /> <figcaption>방화벽 아래에 네트워크 태그</figcaption></figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/네트워크태그설정.png" alt="" class="wp-image-890" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/네트워크태그설정.png 924w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/네트워크태그설정-300x126.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/네트워크태그설정-768x322.png 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/네트워크태그설정-716x300.png 716w" sizes="(max-width: 924px) 100vw, 924px" /> <figcaption>방화벽 아래에 네트워크 태그</figcaption></figure> 
 
 네트워크 태그에 방금 만든 방화벽의 태그인 torrent를 입력한다.
 
@@ -100,7 +100,7 @@ VM 인스턴스 리스트에 있는 가상머신의 이름(instance-1)을 클릭
 설정을 마치면 [서버주소]:9091로 접속하고 이름, 비밀번호 입력 시  
 <figure class="wp-block-image">
 
-<img src="https://i2.wp.com/yongj.in/wp-content/uploads/2019/05/토렌트페이지.png?fit=840%2C500&ssl=1" alt="" class="wp-image-894" srcset="https://yongj.in/wp-content/uploads/2019/05/토렌트페이지.png 1358w, https://yongj.in/wp-content/uploads/2019/05/토렌트페이지-300x178.png 300w, https://yongj.in/wp-content/uploads/2019/05/토렌트페이지-768x457.png 768w, https://yongj.in/wp-content/uploads/2019/05/토렌트페이지-1024x609.png 1024w, https://yongj.in/wp-content/uploads/2019/05/토렌트페이지-1000x595.png 1000w, https://yongj.in/wp-content/uploads/2019/05/토렌트페이지-504x300.png 504w" sizes="(max-width: 1358px) 100vw, 1358px" /> </figure> 
+<img src="https://i2.wp.com/yongj.in/wp-content/uploads/2019/05/토렌트페이지.png?fit=840%2C500&ssl=1" alt="" class="wp-image-894" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/토렌트페이지.png 1358w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/토렌트페이지-300x178.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/토렌트페이지-768x457.png 768w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/토렌트페이지-1024x609.png 1024w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/토렌트페이지-1000x595.png 1000w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/토렌트페이지-504x300.png 504w" sizes="(max-width: 1358px) 100vw, 1358px" /> </figure> 
 
 토렌트를 업로드할 수 있는 페이지가 나온다.
 
@@ -115,7 +115,7 @@ VM 인스턴스 리스트에 있는 가상머신의 이름(instance-1)을 클릭
 
 설정을 마친 후 <http://app.plex.tv/desktop?secure=0> 로 접속하면 외부에서도 서버에 저장된 미디어를 볼 수 있다.<figure class="wp-block-image">
 
-<img src="https://yongj.in/wp-content/uploads/2019/05/플렉스.png" alt="" class="wp-image-897" srcset="https://yongj.in/wp-content/uploads/2019/05/플렉스.png 767w, https://yongj.in/wp-content/uploads/2019/05/플렉스-300x168.png 300w, https://yongj.in/wp-content/uploads/2019/05/플렉스-536x300.png 536w" sizes="(max-width: 767px) 100vw, 767px" /> </figure> 
+<img src="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/플렉스.png" alt="" class="wp-image-897" srcset="https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/플렉스.png 767w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/플렉스-300x168.png 300w, https://raw.githubusercontent.com/16Yongjin/16Yongjin.github.io/master/wp-content/uploads/2019/05/플렉스-536x300.png 536w" sizes="(max-width: 767px) 100vw, 767px" /> </figure> 
 
 뒤에 ?secure=0은 꼭 붙여야한다. 보안 연결 설정이 잘 안되기 때문이다.
 
