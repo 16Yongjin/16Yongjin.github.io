@@ -9,7 +9,7 @@ tags:
   - es6
   - javascript
 ---
-# Get better at JavaScript with just JavaScript
+# Web Bos의  Get better at JavaScript with just JavaScript 강연 정리
 
 ### 출처: https://youtu.be/pws4qzGn5ak
 

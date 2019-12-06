@@ -10,7 +10,7 @@ tags:
   - Javascript
 ---
 
-# Little Lisp interpreter
+# 자바스크립트로 Little Lisp interpreter 만들어보기
 
 > 출처: https://maryrosecook.com/blog/post/little-lisp-interpreter
 
