@@ -1,5 +1,5 @@
 ---
-title: Get better at JavaScript with just JavaScript 강의 정리
+title: Get better at JavaScript with just JavaScript
 date: 2019-11-26T00:53:25+09:00
 author: yongjin0802
 categories:
