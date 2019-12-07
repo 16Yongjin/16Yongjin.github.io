@@ -112,10 +112,6 @@ author:
   bio              : "Javascript Developer"
   location         : "Seoul"
   email            : "yongjin0802@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:"yongjin0802@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

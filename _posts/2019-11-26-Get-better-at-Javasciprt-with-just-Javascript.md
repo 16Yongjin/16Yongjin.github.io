@@ -9,9 +9,8 @@ tags:
   - es6
   - javascript
 ---
-# Web Bos의  Get better at JavaScript with just JavaScript 강연 정리
 
-### 출처: https://youtu.be/pws4qzGn5ak
+Web Bos의  Get better at JavaScript with just JavaScript 강연 정리
 
 # Intersection Observer
 
@@ -119,7 +118,7 @@ observer.observe(element);
 
 입력받은 선택자에 일치하는 가장 가까운 조상요소를 찾는다.
 
-```HTML
+```html
 <div class="cards">
   <div class="card">
     <p>I'm a Card</p>
@@ -318,3 +317,9 @@ SpeechRecognition API로 음성인식이 가능하다.
 # Shape Detection
 
 얼굴, 바코드, 텍스트를 인식할 수 있다.
+
+---
+
+# 출처
+
+https://youtu.be/pws4qzGn5ak
