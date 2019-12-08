@@ -20,6 +20,8 @@ tags:
 
 + 4. 3번 대신 인터페이스 신택스를 사용할 수 있다.
 
+&nbsp;
+
 # 1. 타입 클래스
 
 일단 이건 JSON 추상문법트리를 나타낸 것이다.
@@ -39,6 +41,7 @@ trait JsonWriter[A] {
   def write(value: A): Json
 }
 ```
+&nbsp;
 
 # 2. 타입 클래스 인스턴스
 
@@ -68,6 +71,8 @@ object JsonWriterInstances {
 }
 ```
 
+&nbsp;
+
 # 3. 타입 클래스 인터페이스
 
 사용자가 사용할 기능을 나타낸다.
@@ -88,6 +93,8 @@ import JsonWriterInstances._
  
 Json.toJson(Person("Dave", "dave@example.com"))
 ```
+
+&nbsp;
 
 # 4. 인터페이스 신택스
 
@@ -113,6 +120,8 @@ import JsonSyntax._
 Person("Yongjin", "yongjin@example.com").toJson
 ```
 
+&nbsp;
+
 # 추가로
 
 아래처럼 생긴 implicitly 함수로 implicit scope를 확인 가능하다.
@@ -122,6 +131,8 @@ def implicitly[A](implicit value: A): A = value
 ```
 
 또한 implicit scope에 타입 클래스 인스턴스는 한 개만 있어야 컴파일러가 implicit 값을 잘 찾을 수 있다.(에러가 안 난다)
+
+&nbsp;
 
 ## 출처
 
