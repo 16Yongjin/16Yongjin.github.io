@@ -9,10 +9,9 @@ permalink: '/2018/04/01/jest-puppeteer-automated-test/'
 timeline_notification:
   - "1522575353"
 categories:
-  - Development
+  - Node.js
 tags:
   - Jest
-  - Node.js
   - Puppeteer
   - Testing
 ---

@@ -9,10 +9,10 @@ permalink: '/2018/01/19/node-js-%eb%a6%ac%eb%88%85%ec%8a%a4-%eb%b0%b0%ed%8f%ac-%
 timeline_notification:
   - "1516366708"
 categories:
-  - Development
+  - Node.js
 tags:
   - Linux
-  - Node.js
+  - Deployment
 ---
 서버는 sudo npm i -g pm2 실행 후  
 [code language=&#8221;shell&#8221;]  

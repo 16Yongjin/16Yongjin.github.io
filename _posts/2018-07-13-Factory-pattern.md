@@ -9,11 +9,9 @@ permalink: '/2018/07/13/factory-pattern/'
 timeline_notification:
   - "1531468546"
 categories:
-  - Development
-tags:
   - Node.js
+tags:
   - Design Pattern
-  - Factory Pattern
 ---
 
 ## 객체의 생성과 구현을 분리하는 팩토리 패턴

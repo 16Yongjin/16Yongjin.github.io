@@ -4,6 +4,7 @@ date: 2019-12-04T12:53:25+09:00
 author: yongjin0802
 categories:
   - Javascript
+  - Tutorials
 tags:
   - Lisp
   - Interpreter

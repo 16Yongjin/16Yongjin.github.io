@@ -8,6 +8,8 @@ guid: https://yongjinsite.wordpress.com/?p=287
 permalink: /2017/04/23/machine-learning-coursera/
 categories:
   - Machine Learning
+tags:
+  - Coursera
 ---
 
 

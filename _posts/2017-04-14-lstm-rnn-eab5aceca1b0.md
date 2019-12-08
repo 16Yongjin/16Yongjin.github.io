@@ -10,6 +10,7 @@ categories:
   - Deep Learning
 tags:
   - LSTM
+  - Deep Learning
 ---
 <div>
   <h2>

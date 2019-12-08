@@ -7,7 +7,7 @@ author: yongjinsite
 guid: https://yongjinsite.wordpress.com/?p=90
 permalink: /2017/04/14/visual-studio-for-mac/
 categories:
-  - Development
+  - Utility
 ---
 맥용 비쥬얼 스튜디오 체험판이 나왔다.
 

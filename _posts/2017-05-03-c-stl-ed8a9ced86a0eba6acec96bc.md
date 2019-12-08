@@ -7,10 +7,9 @@ author: yongjinsite
 guid: https://yongjinsite.wordpress.com/?p=299
 permalink: '/2017/05/03/c-stl-%ed%8a%9c%ed%86%a0%eb%a6%ac%ec%96%bc/'
 categories:
-  - Development
+  - Tutorials
 tags:
   - C++
-  - Tutorial
 ---
 <div>
   effective c++을 읽는데 공부 안한 c++ stl의 벡터와 반복자가 나왔다.

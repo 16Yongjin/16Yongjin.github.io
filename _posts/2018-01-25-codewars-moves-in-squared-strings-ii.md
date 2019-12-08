@@ -9,7 +9,7 @@ permalink: /2018/01/25/codewars-moves-in-squared-strings-ii/
 timeline_notification:
   - "1516859178"
 categories:
-  - 기타
+  - ETC
 tags:
   - Codewars
 ---

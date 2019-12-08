@@ -7,7 +7,7 @@ author: yongjinsite
 guid: https://yongjinsite.wordpress.com/?p=246
 permalink: '/2017/04/22/%ec%95%84%eb%91%90%ec%9d%b4%eb%85%b8-%eb%a0%88%ec%98%a4%eb%82%98%eb%a5%b4%eb%8f%84%eb%a1%9c-%eb%a7%88%ec%9a%b0%ec%8a%a4-%ec%8b%9c%eb%ae%ac%eb%a0%88%ec%9d%b4%ec%85%98%ed%95%98%ea%b8%b0/'
 categories:
-  - 기타
+  - Arduino
 tags:
   - Arduino
 ---

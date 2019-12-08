@@ -9,7 +9,7 @@ permalink: '/2018/03/04/vue-js-firebase-cloud-message-fcm-setting/'
 timeline_notification:
   - "1520095463"
 categories:
-  - Development
+  - Tutorials
 tags:
   - Firebase
   - Vue.js

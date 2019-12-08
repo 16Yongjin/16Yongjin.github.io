@@ -9,9 +9,9 @@ permalink: '/2018/03/22/node-js-performance-improvement/'
 timeline_notification:
   - "1521717351"
 categories:
-  - Development
-tags:
   - Node.js
+tags:
+  - Performance
 ---
 노드 인스턴스를 여러개 띄워 노드 앱의 성능을 향상시킬 수 있다.
 
@@ -19,4 +19,4 @@ tags:
   2. 편하게 pm2의 클러스터 모드 사용하기
   3. webworker-threads 모듈 사용하기
 
-https://gist.github.com/16Yongjin/3f52d2b37e2f6ea8bc3f416d292a4ddb
+<script src="https://gist.github.com/16Yongjin/3f52d2b37e2f6ea8bc3f416d292a4ddb.js"></script>

@@ -11,9 +11,10 @@ categories:
 tags:
   - Portuguese
 ---
-&nbsp;
 
 외대 주변 식당 추천앱, 훕스토랑
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RyUYtv8medo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vuetify와 Firebase를 사용했다.
 
@@ -36,9 +37,3 @@ Element 라이브러리를 써서 다시 만들고 싶다.
 3. Vue.js용 구글맵스 라이브러리 &#8211; 진작 쓸 걸!
 
 4. 반응형으로 만들어서 브라우저를 어떻게 찌그려 뜨리든 보일 건 다 보인다.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

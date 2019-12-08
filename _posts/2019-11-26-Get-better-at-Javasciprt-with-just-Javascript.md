@@ -6,8 +6,8 @@ categories:
   - Javascript
 tags:
   - DOM
-  - es6
-  - javascript
+  - ES6
+  - Javascript
 ---
 
 Web Bos의  Get better at JavaScript with just JavaScript 강연 정리

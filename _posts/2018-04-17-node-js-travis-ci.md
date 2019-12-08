@@ -7,9 +7,8 @@ permalink: '/2018/04/17/node.js-travis-ci/'
 timeline_notification:
   - "1523894039"
 categories:
-  - Development
-tags:
   - Node.js
+tags:
   - Travis CI
 ---
 # Node.js Travis CI 설정하기

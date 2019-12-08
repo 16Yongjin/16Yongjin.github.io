@@ -9,11 +9,11 @@ permalink: '/2018/03/25/node.js-redis-mongodb-caching/'
 timeline_notification:
   - "1521971582"
 categories:
-  - Development
+  - Node.js
 tags:
   - MongoDB
-  - Node.js
   - Redis
+  - Caching
 ---
 Mongoose가 MongoDB로 보내는 쿼리를 가로채는 방식으로 캐시를 적용할 수 있다.
 

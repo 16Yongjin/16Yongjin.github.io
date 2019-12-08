@@ -8,7 +8,6 @@ categories:
   - Scala
 tags:
   - Functional Programming
-  - Scala
 ---
 스칼라의 타입 클래스 패턴 정리
 
