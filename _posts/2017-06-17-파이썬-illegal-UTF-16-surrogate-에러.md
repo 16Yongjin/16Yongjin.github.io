@@ -1,6 +1,6 @@
 ---
 id: 310
-title: '파이썬 illegal UTF-16 surrogate  에러'
+title: 'Python illegal UTF-16 surrogate  에러'
 date: 2017-06-17T00:24:44+09:00
 author: yongjinsite
 

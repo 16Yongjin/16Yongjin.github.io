@@ -1,6 +1,6 @@
 ---
 id: 287
-title: Machine Learning | Coursera
+title: Coursera Machine Learning 강좌 완료
 date: 2017-04-23T19:03:06+09:00
 author: yongjinsite
 
