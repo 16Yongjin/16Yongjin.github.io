@@ -13,7 +13,11 @@ categories:
 tags:
   - Firebase
   - Vue.js
+
 ---
+
+Vue.js 프로젝트에 FCM 추가하기
+
 ```javascript
 import Vue from 'vue'
 import { initializeApp, messaging } from 'firebase'

@@ -10,8 +10,9 @@ timeline_notification:
   - "1531468546"
 categories:
   - Node.js
-tags:
   - Design Pattern
+tags:
+  - Factory Pattern
 ---
 
 ## 객체의 생성과 구현을 분리하는 팩토리 패턴

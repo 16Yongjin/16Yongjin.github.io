@@ -14,6 +14,9 @@ tags:
   - Linux
   - Deployment
 ---
+
+리눅스에 Node.js 앱 배포를 자동화하는 스크립트
+
 서버는 sudo npm i -g pm2 실행 후  
 [code language=&#8221;shell&#8221;]  
 \# 맥에서  
