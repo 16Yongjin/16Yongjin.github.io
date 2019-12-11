@@ -203,6 +203,8 @@ export default class SegmentTree {
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ic7OO3Uw6J0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+&nbsp;
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0l3xN3BpxHg" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Segment_tree)
