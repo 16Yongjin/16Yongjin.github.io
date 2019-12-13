@@ -1,5 +1,5 @@
 ---
-title: Segment Tree
+title: 세그먼트 트리
 date: 2019-12-11T19:22:25+09:00
 author: yongjin0802
 categories:
