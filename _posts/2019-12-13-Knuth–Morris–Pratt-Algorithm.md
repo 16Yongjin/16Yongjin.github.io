@@ -98,7 +98,7 @@ function knuthMorrisPratt(text, word) {
 prefixIndex = patternTable[prefixIndex - 1];
 ```
 
-이 부분을 이해할 수 있는 유튜브 영상
+부분을 이해할 수 있는 유튜브 영상
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KG44VoDtsAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
