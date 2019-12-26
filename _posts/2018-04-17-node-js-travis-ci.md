@@ -3,9 +3,6 @@ id: 709
 title: Node.js Travis CI 설정
 date: 2018-04-17T00:53:56+09:00
 author: yongjinsite
-permalink: '/2018/04/17/node.js-travis-ci/'
-timeline_notification:
-  - "1523894039"
 categories:
   - Node.js
 tags:

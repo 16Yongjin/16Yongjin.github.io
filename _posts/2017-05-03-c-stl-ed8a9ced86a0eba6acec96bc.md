@@ -3,9 +3,6 @@ id: 299
 title: C++ STL 튜토리얼
 date: 2017-05-03T21:20:38+09:00
 author: yongjinsite
-
-guid: https://yongjinsite.wordpress.com/?p=299
-permalink: '/2017/05/03/c-stl-%ed%8a%9c%ed%86%a0%eb%a6%ac%ec%96%bc/'
 categories:
   - Tutorials
 tags:

@@ -3,11 +3,6 @@ id: 703
 title: Redis로 MongoDB 캐싱하기
 date: 2018-03-25T18:53:00+09:00
 author: yongjinsite
-
-guid: https://yongjinsite.wordpress.com/?p=703
-permalink: '/2018/03/25/node.js-redis-mongodb-caching/'
-timeline_notification:
-  - "1521971582"
 categories:
   - Node.js
 tags:

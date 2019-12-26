@@ -3,9 +3,6 @@ id: 33
 title: Mac os에서 Windows 용 exe파일을 실행하는 법
 date: 2017-04-08T17:20:04+09:00
 author: yongjinsite
-
-guid: https://yongjinsite.wordpress.com/?p=33
-permalink: '/2017/04/08/mac-os%ec%97%90%ec%84%9c-windows-%ec%9a%a9-exe%ed%8c%8c%ec%9d%bc%ec%9d%84-%ec%8b%a4%ed%96%89%ed%95%98%eb%8a%94-%eb%b2%95/'
 categories:
   - Utility
 tags:

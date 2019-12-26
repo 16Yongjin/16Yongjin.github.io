@@ -3,11 +3,6 @@ id: 687
 title: Vue.js + Firebase Cloud Message (FCM) 설정
 date: 2018-03-04T01:44:21+09:00
 author: yongjinsite
-
-guid: https://yongjinsite.wordpress.com/?p=687
-permalink: '/2018/03/04/vue-js-firebase-cloud-message-fcm-setting/'
-timeline_notification:
-  - "1520095463"
 categories:
   - Tutorials
 tags:

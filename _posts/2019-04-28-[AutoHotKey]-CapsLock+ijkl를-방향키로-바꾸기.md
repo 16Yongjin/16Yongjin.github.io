@@ -3,9 +3,6 @@ id: 875
 title: '[AutoHotKey] CapsLock+ijkl를 방향키로 바꾸기'
 date: 2019-04-28T11:52:57+09:00
 author: yongjin0802
-
-guid: https://yongj.in/?p=875
-permalink: '/2019/04/28/autohotkey-capslockijkl%eb%a5%bc-%eb%b0%a9%ed%96%a5%ed%82%a4%eb%a1%9c-%eb%b0%94%ea%be%b8%ea%b8%b0/'
 categories:
   - Utility
 tags:

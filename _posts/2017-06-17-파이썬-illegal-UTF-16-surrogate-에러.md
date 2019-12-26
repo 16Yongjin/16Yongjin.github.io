@@ -3,9 +3,6 @@ id: 310
 title: 'Python illegal UTF-16 surrogate  에러'
 date: 2017-06-17T00:24:44+09:00
 author: yongjinsite
-
-guid: https://yongjinsite.wordpress.com/?p=310
-permalink: '/2017/06/17/%ed%8c%8c%ec%9d%b4%ec%8d%ac-illegal-utf-16-surrogate-%ec%97%90%eb%9f%ac/'
 categories:
   - Python
 tags:

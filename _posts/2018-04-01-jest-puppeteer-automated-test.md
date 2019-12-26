@@ -3,11 +3,6 @@ id: 707
 title: Jest와 Puppeteer로 자동화 테스트하기
 date: 2018-04-01T18:35:51+09:00
 author: yongjinsite
-
-guid: https://yongjinsite.wordpress.com/?p=707
-permalink: '/2018/04/01/jest-puppeteer-automated-test/'
-timeline_notification:
-  - "1522575353"
 categories:
   - Node.js
 tags:

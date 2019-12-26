@@ -3,13 +3,7 @@ id: 779
 title: 'Factory 패턴: 객체의 생성과 구현을 분리한다.'
 date: 2018-07-13T16:55:41+09:00
 author: yongjinsite
-
-guid: https://yongjinsite.wordpress.com/?p=779
-permalink: '/2018/07/13/factory-pattern/'
-timeline_notification:
-  - "1531468546"
 categories:
-  - Node.js
   - Design Pattern
 tags:
   - Factory Pattern

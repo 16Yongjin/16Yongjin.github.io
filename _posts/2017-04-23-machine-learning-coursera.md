@@ -3,9 +3,6 @@ id: 287
 title: Coursera Machine Learning 강좌 완료
 date: 2017-04-23T19:03:06+09:00
 author: yongjinsite
-
-guid: https://yongjinsite.wordpress.com/?p=287
-permalink: /2017/04/23/machine-learning-coursera/
 categories:
   - Machine Learning
 tags:

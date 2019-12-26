@@ -3,9 +3,6 @@ id: 101
 title: LSTM RNN 구조
 date: 2017-04-14T13:31:30+09:00
 author: yongjinsite
-
-guid: https://yongjinsite.wordpress.com/?p=101
-permalink: '/2017/04/14/lstm-rnn-%ea%b5%ac%ec%a1%b0/'
 categories:
   - Deep Learning
 tags:

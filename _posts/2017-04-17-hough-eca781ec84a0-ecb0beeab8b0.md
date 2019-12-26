@@ -3,9 +3,6 @@ id: 124
 title: matlab으로 Hough 직선 찾기
 date: 2017-04-17T02:05:23+09:00
 author: yongjinsite
-
-guid: https://yongjinsite.wordpress.com/?p=124
-permalink: '/2017/04/17/hough-%ec%a7%81%ec%84%a0-%ec%b0%be%ea%b8%b0/'
 categories:
   - Computer Vision
 tags:
