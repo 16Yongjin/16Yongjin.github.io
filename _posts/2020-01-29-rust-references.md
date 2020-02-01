@@ -1,5 +1,5 @@
 ---
-title: [Rust] 참조자
+title: \[Rust\] 참조자
 date: 2020-01-29T21:00:00+09:00
 author: yongjin0802
 categories:

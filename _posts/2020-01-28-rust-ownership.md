@@ -1,5 +1,5 @@
 ---
-title: [Rust] 소유권
+title: \[Rust\] 소유권
 date: 2020-01-28T21:00:00+09:00
 author: yongjin0802
 categories:
