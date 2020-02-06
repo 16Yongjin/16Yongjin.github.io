@@ -34,7 +34,7 @@ categories:
 
 ![ctrl-cv(3)](https://user-images.githubusercontent.com/22253556/73840076-bb02c980-485a-11ea-8a0d-38dfddbe896a.png)
 
-## 랜딩 페이지 (https://ctrl-cv.surge.sh/)
+## 랜딩 페이지 ([https://ctrl-cv.surge.sh/](https://ctrl-cv.surge.sh/))
 
 서비스를 유저에게 소개하는 페이지
 
@@ -66,9 +66,11 @@ HTML과 CSS로 만들어서 페이지 방문 시 로고가 늦게 뜰 걱정이 
 
 Buefy로 클라이언트 데모를 7시간 만에 만들었다.
 
-Vue.js를 3달 만에 사용하는 것을 감안해도 빠르게 만들었다.
+Vue.js를 3달 만에 사용하는 것을 감안해도 빠르게 만들었다. (모바일 지원은 기본)
 
 UI Flowchart를 만들어놓으니 보면서 그대로 구현하기 쉬웠다.
+
+모든 구간을 애니메이션으로 연결해서 UI 흐름이 부드럽다.
 
 ### 클라이언트 데모
 
@@ -166,6 +168,8 @@ api 요청 중일 때 대기하는 `page.waitForNavigation({waitUntil: "networki
 
 - `sqlalchemy`으로 쉽게 [DB 모델링](https://github.com/16Yongjin/ctrl-cv-fastapi/blob/master/sql_app/models.py)을 할 수 있다.
 - `pydantic`으로 쉽게 [폼 검증 기능](https://github.com/16Yongjin/ctrl-cv-fastapi/blob/master/sql_app/schemas.py)을 구현할 수 있다.
+
+&nbsp;
 
 ## 마치며
 
