@@ -36,6 +36,9 @@ categories:
 
 ## 랜딩 페이지 ([https://ctrl-cv.surge.sh/](https://ctrl-cv.surge.sh/))
 
+![73840560-c9051a00-485b-11ea-8b83-37a8e2d9b85a](https://user-images.githubusercontent.com/22253556/73840656-f9e54f00-485b-11ea-80a7-6b3fc74bc63f.png)
+
+
 서비스를 유저에게 소개하는 페이지
 
 트렌디하게 웨이브 배경과 콘셉트 그래픽을 넣었다.
@@ -44,9 +47,11 @@ categories:
 
 3시간 만에 만들었는데 조금 잘 만든 듯
 
-![73840560-c9051a00-485b-11ea-8b83-37a8e2d9b85a](https://user-images.githubusercontent.com/22253556/73840656-f9e54f00-485b-11ea-80a7-6b3fc74bc63f.png)
 
 ## 로고 디자인
+
+![image](https://user-images.githubusercontent.com/22253556/73927840-7b4ce800-4915-11ea-89eb-f5f0f5e3ec15.png)
+
 
 서비스 이름이 이력서를 다룬다는 뜻의 `ctrl cv`로 결정됐다.
 
@@ -58,7 +63,6 @@ categories:
 
 HTML과 CSS로 만들어서 페이지 방문 시 로고가 늦게 뜰 걱정이 없다.
 
-![image](https://user-images.githubusercontent.com/22253556/73927840-7b4ce800-4915-11ea-89eb-f5f0f5e3ec15.png)
 
 &nbsp;
 
