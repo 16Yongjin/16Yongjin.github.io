@@ -162,18 +162,18 @@ api 요청 중일 때 대기하는 `page.waitForNavigation({waitUntil: "networki
 2. API 정의에 따라 스웨거와 리독 문서가 자동으로 생성된다.
 3. 튜토리얼 문서가 잘 되어 있어서 필요한 기능 개발에 많은 도움을 받을 수 있다.
 
-## `sqlalchemy`(ORM)와 `pydantic`(Data Validation)
+## `Sqlalchemy`(ORM)와 `Pydantic`(Data Validation)
 
 속성에 타입이 있는 클래스만 정의하면
 
-- `sqlalchemy`으로 쉽게 [DB 모델링](https://github.com/16Yongjin/ctrl-cv-fastapi/blob/master/sql_app/models.py)을 할 수 있다.
-- `pydantic`으로 쉽게 [폼 검증 기능](https://github.com/16Yongjin/ctrl-cv-fastapi/blob/master/sql_app/schemas.py)을 구현할 수 있다.
+- `Sqlalchemy`으로 쉽게 [DB 모델링](https://github.com/16Yongjin/ctrl-cv-fastapi/blob/master/sql_app/models.py)을 할 수 있다.
+- `Pydantic`으로 쉽게 [폼 검증 기능](https://github.com/16Yongjin/ctrl-cv-fastapi/blob/master/sql_app/schemas.py)을 구현할 수 있다.
 
 &nbsp;
 
 ## 마치며
 
-심리학 책 `굿라이프`에 따르면 개인 프로젝트는 좋은 삶을 위한 의미에 중요한 역할을 한다.
+심리학 책 **굿라이프**에 따르면 개인 프로젝트는 좋은 삶을 위한 의미에 중요한 역할을 한다.
 
 심리학자 브라이언 리틀은 개인 프로젝트를 5가지 차원으로 평가할 수 있다고 했다.
 
