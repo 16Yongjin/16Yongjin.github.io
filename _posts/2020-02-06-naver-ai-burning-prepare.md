@@ -1,5 +1,5 @@
 ---
-title: 네이버 AI 버닝데이 준비기
+title: 네이버 AI 버닝데이 탈락기념, 해커톤 준비기
 date: 2020-02-6T21:00:00+09:00
 author: yongjin0802
 categories:
