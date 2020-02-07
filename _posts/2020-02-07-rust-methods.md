@@ -1,6 +1,6 @@
 ---
 title: \[Rust\] 메서드와 연관함수
-date: 2020-02-03T21:10:00+09:00
+date: 2020-02-07T21:10:00+09:00
 author: yongjin0802
 categories:
   - Rust
