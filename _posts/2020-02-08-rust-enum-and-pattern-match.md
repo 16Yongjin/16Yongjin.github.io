@@ -106,6 +106,8 @@ enum Option<T> {
 }
 ```
 
+&nbsp;
+
 # match 흐름 제어 연산자
 
 패턴으로 값에 따라 코드를 수행할 수 있다.
@@ -167,6 +169,8 @@ match some_u8_value {
     _ => (),
 }
 ```
+
+&nbsp;
 
 # `if let`을 사용한 간결한 흐름제어
 
