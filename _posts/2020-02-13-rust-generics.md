@@ -1,6 +1,6 @@
 ---
 title: \[Rust\] 제네릭
-date: 2020-02-13T20:00:00+09:00
+date: 2020-02-13T20:10:00+09:00
 author: yongjin0802
 categories:
   - Rust

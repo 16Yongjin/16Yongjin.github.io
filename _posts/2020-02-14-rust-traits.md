@@ -1,6 +1,6 @@
 ---
 title: \[Rust\] 트레잇
-date: 2020-02-14T20:00:00+09:00
+date: 2020-02-14T20:10:00+09:00
 author: yongjin0802
 categories:
   - Rust

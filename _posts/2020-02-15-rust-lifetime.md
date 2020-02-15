@@ -1,6 +1,6 @@
 ---
 title: \[Rust\] 라이프타임
-date: 2020-02-15T20:00:00+09:00
+date: 2020-02-15T20:10:00+09:00
 author: yongjin0802
 categories:
   - Rust
