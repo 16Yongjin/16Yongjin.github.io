@@ -7,6 +7,7 @@ layout: revision
 guid: https://yongj.in/2019/04/21/799-revision-v1/
 permalink: /2019/04/21/799-revision-v1/
 ---
+
 <div class="">
   <div>
   </div>
@@ -54,7 +55,7 @@ permalink: /2019/04/21/799-revision-v1/
     
     <div class="">
       <div class="_1mf _1mj">
-        <span>모임 생성 시 정보를 한번에 하나씩 입력하는 UI를 적용해서 </span>인지 부담을 줄임
+        <span>모임 생성 시 정보를 한 번에 하나씩 입력하는 UI를 적용해서 </span>인지 부담을 줄임
       </div>
     </div>
   </div>
