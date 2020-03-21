@@ -10,6 +10,9 @@ tags:
   - Android
   - Flutter
   - Svelte
+header:
+  overlay_image: https://user-images.githubusercontent.com/22253556/77215882-04cd1800-6b5a-11ea-9180-e39ddf44f220.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 6학기째 만들고 있는 서비스
@@ -42,7 +45,9 @@ ncloud의 SMS 서비스를 이용해서 전화번호만 있으면 문자로 알�
 
 ### 4. 강의 검색 기능 추가
 
-# [Alarm Server](https://github.com/16Yongjin/20-1-lecture-alarm-node) (`Node.js`)
+&nbsp;
+
+# [서버](https://github.com/16Yongjin/20-1-lecture-alarm-node) (`Node.js`)
 
 ## 하는 일
 
@@ -144,7 +149,7 @@ User.createQueryBuilder()
 
 &nbsp;
 
-# [Android App by Flutter](https://github.com/16Yongjin/20-1-lecture-alarm-flutter)
+# [안드로이드 앱](https://github.com/16Yongjin/20-1-lecture-alarm-flutter) (Flutter)
 
 ![Screenshot_2020-03-20-20-35-09-875_com google android apps playconsole](https://user-images.githubusercontent.com/22253556/77160536-e24fe600-6aea-11ea-8dc7-46e39795c09f.jpg)
 
@@ -224,13 +229,15 @@ User.createQueryBuilder()
 
 안드로이드 에뮬레이터에서 localhost에 접근하기 위해 주소로 `10.0.2.2`를 사용해야 한다
 
+`Stack` 위젯으로 CSS의 `position: absolute` 다수의 위젯을 겹치게 배치할 수 있다.
+
 ![image](https://user-images.githubusercontent.com/22253556/77160754-62764b80-6aeb-11ea-8e59-4e1dd9cf0a95.png)
 
 <center>앱 업데이트 후 수정된 리뷰 ㅋㅋ</center>
 
 &nbsp;
 
-# [Web App By Svelte](https://github.com/16Yongjin/20-1-lecture-alarm-svelte)
+# [웹 앱](https://github.com/16Yongjin/20-1-lecture-alarm-svelte) (`Svelte`)
 
 ## 라이브러리 코드를 직접 수정하지 말자
 
@@ -272,7 +279,11 @@ const debounceQuery = query => {
 
 서비스 정상 작동을 확인할 수 있는 수치
 
-유저수, 알람수, 학과수, 완료된 알람수, 유저 당 알람수
+- 유저수
+- 알람수
+- 학과수
+- 완료된 알람수
+- 유저 당 알람수
 
 ### 2. Server
 
@@ -379,3 +390,17 @@ FCM은 보낸 후 1초면 오는데, 문자는 받는데 5초 정도 걸린다.
 ## 3. 광고는 노출의 질보단 양
 
 UI흐름을 막고, 돈도 제대로 안 주는 리워드 영상 광고는 빼고 작은 배너 광고 하나만 사용하자.
+
+## 4. 최신 버전 API 사용에 계속 실패하면 이전 버전을 사용하자.
+
+- FCM 사용 시 `firebase` 버전 7에서 안 되던게 버전 6을 사용하니 작동했다.
+
+- ncloud SMS 사용시 v2 버전이 안 돼서 v1 버전을 사용하니 바로 해결됐다.
+
+최신 버전 FCM은 `VAPID`를 요구하고, SMS v2는 요청헤더를 암호화한 서명을 요구한다.
+
+둘 다 매뉴얼을 보고 요구사항 대로 설정해도 제대로 작동하지 않는다.
+
+기본적인 기능이 작동하지도 않는데, 새로 추가한 보안이 뭔 소용인지 모르겠다.
+
+두 API 때문에 디버깅 하느라 반나절은 날아간 것 같다.
