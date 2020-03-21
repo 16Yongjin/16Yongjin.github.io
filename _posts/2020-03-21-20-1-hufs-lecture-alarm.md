@@ -11,8 +11,7 @@ tags:
   - Flutter
   - Svelte
 header:
-  overlay_image: https://user-images.githubusercontent.com/22253556/77215882-04cd1800-6b5a-11ea-9180-e39ddf44f220.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  image: https://user-images.githubusercontent.com/22253556/77215882-04cd1800-6b5a-11ea-9180-e39ddf44f220.png
 ---
 
 6학기째 만들고 있는 서비스
