@@ -35,7 +35,7 @@ tags:
 
 근데 \$0.89 밖에 못 벌었다.
 
-### 3. 문자 버전 추가
+### 3. 문자 알람 서비스 지원
 
 내 서비스는 아이폰 지원이 안 된다는 치명적인 결점이 있었다.
 
@@ -149,7 +149,7 @@ User.createQueryBuilder()
 
 &nbsp;
 
-# [안드로이드 앱](https://github.com/16Yongjin/20-1-lecture-alarm-flutter) (Flutter)
+# [안드로이드 앱](https://github.com/16Yongjin/20-1-lecture-alarm-flutter) (`Flutter`)
 
 ![Screenshot_2020-03-20-20-35-09-875_com google android apps playconsole](https://user-images.githubusercontent.com/22253556/77160536-e24fe600-6aea-11ea-8dc7-46e39795c09f.jpg)
 
@@ -251,7 +251,9 @@ User.createQueryBuilder()
 
 코드 8줄로 300ms 디바운싱을 구현했다.
 
-사용자는 검색하기 버튼을 누를 필요도 없이 강의를 찾을 수 있다.
+사용자는 검색하기 버튼을 누를 필요도 없이 강의명만 입력하면 강의를 찾을 수 있다.
+
+서버 입장에서는 과도한 검색 요청을 막을 수 있다.
 
 ```javascript
 let timer;
@@ -407,7 +409,7 @@ UI흐름을 막고, 돈도 제대로 안 주는 리워드 영상 광고는 빼�
 
 두 API 때문에 디버깅 하느라 반나절은 날아간 것 같다.
 
-API 사용을 10번 시도해보고 안되면 바로 이전 버전을 사용해야겠다.
+**API 사용을 10번 시도해보고 안되면 바로 이전 버전을 사용해야겠다.**
 
 &nbsp;
 
