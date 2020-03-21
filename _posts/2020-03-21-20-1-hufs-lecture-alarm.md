@@ -1,5 +1,4 @@
 ---
-id: 972
 title: 20-2 한국외대 수강신청 빈자리 알람
 date: 2020-03-21T20:00:00+09:00
 author: yongjin0802
@@ -10,9 +9,9 @@ tags:
   - Android
   - Flutter
   - Svelte
-header:
-  image: https://user-images.githubusercontent.com/22253556/77215882-04cd1800-6b5a-11ea-9180-e39ddf44f220.png
 ---
+
+![header-image](https://user-images.githubusercontent.com/22253556/77215882-04cd1800-6b5a-11ea-9180-e39ddf44f220.png)
 
 6학기째 만들고 있는 서비스
 
@@ -43,6 +42,8 @@ header:
 ncloud의 SMS 서비스를 이용해서 전화번호만 있으면 문자로 알람을 받을 수 있게 했다.
 
 ### 4. 강의 검색 기능 추가
+
+강의명, 교수명으로 강의 검색이 가능하다.
 
 &nbsp;
 
@@ -226,7 +227,7 @@ User.createQueryBuilder()
 
 ## 기타
 
-안드로이드 에뮬레이터에서 localhost에 접근하기 위해 주소로 `10.0.2.2`를 사용해야 한다
+안드로이드 에뮬레이터에서 localhost에 접근하기 위해 주소로 `10.0.2.2`를 사용해야 한다.
 
 `Stack` 위젯으로 CSS의 `position: absolute` 다수의 위젯을 겹치게 배치할 수 있다.
 
@@ -266,7 +267,7 @@ const debounceQuery = query => {
 
 &nbsp;
 
-# [Dashboard](https://github.com/16Yongjin/20-1-lecture-alarm-dashboard)
+# [서비스 운영을 위한 대시보드]](https://github.com/16Yongjin/20-1-lecture-alarm-dashboard) (`Svelte`, `Chart.js`)
 
 ![dashboard-screenshot](https://user-images.githubusercontent.com/22253556/77064355-b1a47980-6a22-11ea-8696-238b8e949667.png)
 
@@ -322,7 +323,7 @@ const debounceQuery = query => {
 
 `grid-template-areas`로 복잡한 레이아웃을 쉽게 잡았다.
 
-데스크탑에서 모바일로 레이아웃을 변경할 떄,
+데스크탑에서 모바일로 레이아웃을 변경할 때,
 
 ```javascript
 "user-count alarm-count course-count completed-alarm-count checker-running";
@@ -340,7 +341,7 @@ const debounceQuery = query => {
 "alarms-per-user alarms-per-user";
 ```
 
-위와 같이 바꾸고 로우, 칼럼 길이만 조금 수정하면되니 정말 편하다.
+위와 같이 바꾸고 로우, 칼럼 길이만 조금 수정하면 되니 정말 편하다.
 
 &nbsp;
 
@@ -374,17 +375,19 @@ FCM은 보낸 후 1초면 오는데, 문자는 받는데 5초 정도 걸린다.
 
 &nbsp;
 
-# 마무리
+# 느낀 점
 
 ## 1. 다음 학기엔 꼭 아이폰 버전 만들어야겠다.
 
-- 앱 스토어에 도전한다.
+문자보단 푸시 메시지가 유저 사용성 측면에서 뛰어나다.
+
+앱 스토어에 도전한다.
 
 ## 2. 유저를 더 생각하자
 
 아이콘 하나로 내 의도를 이해시키엔 부족하다.
 
-사용 설명서 제대로 작성해자.
+사용 설명서 제대로 작성하자.
 
 ## 3. 광고는 노출의 질보단 양
 
@@ -392,7 +395,7 @@ UI흐름을 막고, 돈도 제대로 안 주는 리워드 영상 광고는 빼�
 
 ## 4. 최신 버전 API 사용에 계속 실패하면 이전 버전을 사용하자.
 
-- FCM 사용 시 `firebase` 버전 7에서 안 되던게 버전 6을 사용하니 작동했다.
+- 웹 FCM 사용 시 `firebase` 버전 7에서 안 되던게 버전 6을 사용하니 작동했다.
 
 - ncloud SMS 사용시 v2 버전이 안 돼서 v1 버전을 사용하니 바로 해결됐다.
 
@@ -400,6 +403,18 @@ UI흐름을 막고, 돈도 제대로 안 주는 리워드 영상 광고는 빼�
 
 둘 다 매뉴얼을 보고 요구사항 대로 설정해도 제대로 작동하지 않는다.
 
-기본적인 기능이 작동하지도 않는데, 새로 추가한 보안이 뭔 소용인지 모르겠다.
+기본적인 기능이 작동하지도 않는데, 새로 추가한 보안이 뭔 소용인지...
 
 두 API 때문에 디버깅 하느라 반나절은 날아간 것 같다.
+
+API 사용을 10번 시도해보고 안되면 바로 이전 버전을 사용해야겠다.
+
+&nbsp;
+
+# 다음 목표
+
+다음 버전은 사용자 1000명이 목표다.
+
+- 더 많은 플랫폼 지원
+- 빈자리 확인 분산 처리
+- 더 나은 유저 경험
