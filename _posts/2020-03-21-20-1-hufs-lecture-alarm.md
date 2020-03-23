@@ -211,7 +211,7 @@ User.createQueryBuilder()
 
 아무도 발견할 수 없는 이스터에그를 만들었다.
 
-숨겨져있는 버튼을 길게 누르고 있으면 입력 창이 뜬다.
+숨겨져 있는 버튼을 길게 누르고 있으면 입력 창이 뜬다.
 
 여기에 "포어과"를 입력하면 광고를 보지 않아도 알람 추가 개수를 7개로 늘릴 수 있다.
 
@@ -229,7 +229,7 @@ User.createQueryBuilder()
 
 안드로이드 에뮬레이터에서 localhost에 접근하기 위해 주소로 `10.0.2.2`를 사용해야 한다.
 
-`Stack` 위젯으로 CSS의 `position: absolute` 다수의 위젯을 겹치게 배치할 수 있다.
+`Stack` 위젯으로 CSS의 `position: absolute`처럼 다수의 위젯을 겹치게 배치할 수 있다.
 
 ![image](https://user-images.githubusercontent.com/22253556/77160754-62764b80-6aeb-11ea-8e59-4e1dd9cf0a95.png)
 
@@ -269,7 +269,7 @@ const debounceQuery = query => {
 
 &nbsp;
 
-# [서비스 운영을 위한 대시보드]](https://github.com/16Yongjin/20-1-lecture-alarm-dashboard) (`Svelte`, `Chart.js`)
+# [서비스 운영을 위한 대시보드](https://github.com/16Yongjin/20-1-lecture-alarm-dashboard) (`Svelte`, `Chart.js`)
 
 ![dashboard-screenshot](https://user-images.githubusercontent.com/22253556/77064355-b1a47980-6a22-11ea-8696-238b8e949667.png)
 
