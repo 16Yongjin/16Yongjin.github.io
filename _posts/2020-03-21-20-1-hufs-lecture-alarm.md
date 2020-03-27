@@ -1,5 +1,5 @@
 ---
-title: 20-2 한국외대 수강신청 빈자리 알람
+title: 20-1 한국외대 수강신청 빈자리 알람
 date: 2020-03-21T20:00:00+09:00
 author: yongjin0802
 categories:
