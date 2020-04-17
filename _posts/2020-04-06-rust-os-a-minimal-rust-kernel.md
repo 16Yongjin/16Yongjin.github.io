@@ -3,7 +3,7 @@ title: \[Rust OS\] 아주 작은 러스트 커널
 date: 2020-04-06T21:00:00+09:00
 author: yongjin0802
 categories:
-  - Rust
+  - Rust OS
 ---
 
 x86 아키텍처에서 돌아가는 작은 크기의 64비트 러스트 커널을 만들어본다.

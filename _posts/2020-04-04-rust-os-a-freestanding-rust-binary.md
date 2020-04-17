@@ -3,7 +3,7 @@ title: \[Rust OS\] 독립적인 러스트 바이너리
 date: 2020-04-04T21:00:00+09:00
 author: yongjin0802
 categories:
-  - Rust
+  - Rust OS
 ---
 
 운영체제를 만들기 위해 운영체제 종속성을 제거하는 작업을 한다.

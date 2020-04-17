@@ -3,7 +3,7 @@ title: \[Rust OS\] VGA 텍스트 모드
 date: 2020-04-09T21:00:00+09:00
 author: yongjin0802
 categories:
-  - Rust
+  - Rust OS
 ---
 
 ### 안전한 VGA 텍스트 모드 사용을 위한 라이브러리 만들기
