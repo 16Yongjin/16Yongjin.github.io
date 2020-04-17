@@ -1,5 +1,5 @@
 ---
-title: \[Rust OS\] CPU 예외처리
+title: \[Rust OS\] CPU 예외 처리
 date: 2020-04-17T21:00:00+09:00
 author: yongjin0802
 categories:
