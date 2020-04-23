@@ -315,6 +315,8 @@ pub extern "C" fn _start() -> ! {
 }
 ```
 
+QEMU로 실행하면 다음과 같이 나온다.
+
 ![image](https://user-images.githubusercontent.com/22253556/79566839-2d5f1800-80ee-11ea-8543-58b694584846.png)
 
 CPU가 중단점 예외 처리함수를 실행한 덕분에 예외 메시지를 출력한 다음, 다시 `_start` 함수로 돌아와서 `It did not crash!`를 출력했다.
