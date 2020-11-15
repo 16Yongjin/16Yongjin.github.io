@@ -1,5 +1,5 @@
 ---
-title: [JS] 다양한 파일 첨부 방식
+title: 다양한 파일 첨부 방식
 date: 2020-11-15T21:00:00+09:00
 author: yongjin0802
 categories:
