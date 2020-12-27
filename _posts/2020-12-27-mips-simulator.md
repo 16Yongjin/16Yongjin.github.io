@@ -6,7 +6,7 @@ categories:
   - Development
 ---
 
-## Vue.js로 구현한 온라인 MIPS 시뮬레이터
+Vue.js로 구현한 온라인 MIPS 시뮬레이터
 
 ![image](https://user-images.githubusercontent.com/22253556/103166802-fb02de80-4868-11eb-9e25-625a87ea49a2.png)
 
@@ -15,8 +15,6 @@ GUI 앱 링크: https://mips.surge.sh
 GUI 깃헙: https://github.com/16Yongjin/mips-simulator-in-vue
 
 CLI 링크: https://repl.it/@yongjin0802/mips-simulator-team-0x03
-
----
 
 ## 제작 이유
 
