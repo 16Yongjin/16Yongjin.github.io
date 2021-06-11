@@ -134,15 +134,19 @@ function distance(lon1, lat1, lon2, lat2, unit) {
   dist = (dist * 180) / Math.PI
   dist = dist * 60 * 1.1515
 
-  if (unit == "K") dist = dist * 1.609344
+  if (unit == 'K') dist = dist * 1.609344
 
-  if (unit == "N") dist = dist * 0.8684
+  if (unit == 'N') dist = dist * 0.8684
 
   return dist
 }
 ```
 
 기본 단위는 마일이므로 `unit` 파라미터에 `K`를 넣으면 킬로미터 단위로 구해진다.
+
+## 경로 정보
+
+쿼리 파라미터에 `step=true`를 추가하면 legs의 step에 경로 배열이 추가된다.
 
 ## 참고
 
