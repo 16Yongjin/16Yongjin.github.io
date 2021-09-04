@@ -92,7 +92,7 @@ tags:
 
 - SketchFab의 3D 모델을 교실에 불러올 수 있는 기능을 제공한다.
 
-<video width="500px" controls="controls">
+<video width="100%" controls="controls">
   <source src="https://user-images.githubusercontent.com/22253556/132090623-58abcca7-a4ed-4a0d-a530-fc3f44aa1490.mp4" type="video/mp4">
 </video>
 
@@ -138,7 +138,7 @@ const downloadSketchFab = async (uid) => {
 
 ## 크롬 확장 프로그램 포팅
 
-<video width="500px" controls="controls">
+<video width="100%" controls="controls">
   <source src="https://user-images.githubusercontent.com/22253556/132100820-48dab946-c8fa-43d8-ab2e-8968fa38c161.mp4" type="video/mp4">
 </video>
 
@@ -239,7 +239,7 @@ chrome.browserAction.onClicked.addListener(async () => {
 
 ### 공유된 화면 가져오기
 
-<video width="500px" controls="controls">
+<video width="100%" controls="controls">
   <source src="https://user-images.githubusercontent.com/22253556/132100785-95576288-b6d2-4ae3-9899-f481803f3223.mp4" type="video/mp4">
 </video>
 
@@ -253,7 +253,7 @@ chrome.browserAction.onClicked.addListener(async () => {
 
 ### 채팅 가져오기
 
-<video width="500px" controls="controls">
+<video width="100%" controls="controls">
   <source src="https://user-images.githubusercontent.com/22253556/132100822-3d27aeb2-7c31-4da4-8c9e-9195aa9afd0a.mp4" type="video/mp4">
 </video>
 
