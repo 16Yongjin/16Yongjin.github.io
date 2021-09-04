@@ -93,7 +93,7 @@ tags:
 - SketchFab의 3D 모델을 교실에 불러올 수 있는 기능을 제공한다.
 
 <video width="500px" src="https://user-images.githubusercontent.com/22253556/132090623-58abcca7-a4ed-4a0d-a530-fc3f44aa1490.mp4">
-<center><summary>3D 모델 검색, 로딩, 조작, 자세히 보기를 하는 모습</summary></center>
+<summary>3D 모델 검색, 로딩, 조작, 자세히 보기를 하는 모습</summary>
 
 ### 3D 오브젝트 검색 기능
 
