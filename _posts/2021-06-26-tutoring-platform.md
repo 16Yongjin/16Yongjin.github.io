@@ -125,7 +125,7 @@ WebRTC를 활용한 실시간 1:1 강의를 지원하는 튜터링 플랫폼
 
 ## TypeSafe한 Axios API 구현
 
-- 내용이 길어서 [해당 포스트](https://yongj.in/2021-06-25-typesafe-api)에 따로 작성했다.
+- 내용이 길어서 [해당 포스트](http://yongj.in/tutorials/typesafe-api/)에 따로 작성했다.
 
 ## 튜터링 예약
 
@@ -144,8 +144,6 @@ WebRTC를 활용한 실시간 1:1 강의를 지원하는 튜터링 플랫폼
 - 문자 채팅도 지원한다.
 - 그리드 레이아웃을 사용해서 데스크탑과 모바일을 모두 지원한다.
 
-<video width="100%" controls="controls">
-  <source src="https://user-images.githubusercontent.com/22253556/132957316-a29e9314-53c5-40f6-9160-adc099dad017.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7idm4AtpPk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. 이후 내용은 내일 적어야겠다
