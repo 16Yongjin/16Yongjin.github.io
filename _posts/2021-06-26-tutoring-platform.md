@@ -48,7 +48,7 @@ WebRTC를 활용한 실시간 1:1 강의를 지원하는 튜터링 플랫폼
 
 &nbsp;
 
-# 서버 구현
+# [서버](https://github.com/16Yongjin/tutoring-server) 구현
 
 ## 기술 스택
 
@@ -131,7 +131,7 @@ if (tutor.reviewCount === 0) {
 
 &nbsp;
 
-# 클라이언트 구현
+# [클라이언트](https://github.com/16Yongjin/tutoring-app) 구현
 
 ## 기술 스택
 
