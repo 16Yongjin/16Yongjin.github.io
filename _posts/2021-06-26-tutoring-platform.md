@@ -67,6 +67,12 @@ WebRTC를 활용한 실시간 1:1 강의를 지원하는 튜터링 플랫폼
   - `JWT`를 확인하는 `JwtAuthGuard`
   - 요청 내 사용자 정보의 권한을 확인하는 `RoleGuard`
 
+### 레포지터리 레이어의 필요성
+
+- 서비스 레이어에서 TypeORM의 레포지터리를 바로 불러와서 사용했다.
+- TypeORM의 `createQueryBuilder`, `where` 같은 API를 목업할 수 없어서 서비스 레이어 유닛 테스트를 포기했다.
+- `TypeORM`을 쓰고 있는지 모르게 레포지터리 레이어를 뒀다면, 목업하기 쉬워서 테스트도 쉽고, 라이브러리 변경에도 대처하기 쉬웠을 것 같다.
+
 ## 엔티티 구성
 
 [typeorm-uml](https://github.com/eugene-manuilov/typeorm-uml) 라이브러리로 그린 엔티티 관계도이다.
