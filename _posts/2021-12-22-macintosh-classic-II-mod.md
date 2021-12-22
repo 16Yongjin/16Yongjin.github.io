@@ -3,7 +3,7 @@ title: Macintosh Classic II 개조 프로젝트
 date: 2021-12-22T21:00:00+09:00
 author: yongjin0802
 categories:
-  - Hardware
+  - Macintosh
 ---
 
 매킨토시 클래식II를 미니 PC로 개조하기
