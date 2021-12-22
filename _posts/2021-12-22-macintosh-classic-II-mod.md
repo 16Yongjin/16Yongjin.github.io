@@ -34,18 +34,18 @@ categories:
 
 이베이에서 중고 매킨토시를 구매했다. 황변은 쉽게 제거되므로 사진을 꼼꼼히 보고 부서진 곳이나 스크래치가 없는 물품을 골랐다.
 
-> 처음에 좀 싸게 사려고 경매를 시도를 했는데, 자동으로 비딩을 하는 봇한테 처참하게 발렸다.
+> 처음에 좀 싸게 사려고 경매를 시도했는데, 자동으로 입찰하는 봇한테 처참하게 발렸다.
 
 ![image](https://user-images.githubusercontent.com/22253556/147050389-40cb3645-a244-4fef-be9d-183b7e18b5a9.png)
 
 도착한 맥이다. 다행히 배송 중에 부서진 곳은 없었다. 엄청 무겁고 생각보다 앞뒤로 길다.
 ![IMG_20210925_215507](https://user-images.githubusercontent.com/22253556/147055712-e958d104-e928-4d5a-bb23-acf74b5f0189.jpg)
 
-같이 따라온 키보드는 애플로고와 키캡에 인쇄된 이탈릭체 덕분에 이쁘다. 신기한 점은 캡스락 키가 볼펜처럼 누르면 딸깍거리면서 들어가고, 다시 누르면 튀어나온다. 아쉬운 점은 연결부가 PS2 규격이지만, 내부적으로 애플 전용 인터페이스를 써서 윈도우에서 사용이 안 된다. (인식 불가 ㅜㅠ)
+같이 따라온 키보드는 애플 로고와 키캡에 인쇄된 이탤릭체 덕분에 이쁘다. 신기한 점은 캡스락 키가 볼펜처럼 누르면 딸깍거리면서 들어가고, 다시 누르면 튀어나온다. 아쉬운 점은 연결부가 PS2 규격이지만, 내부적으로 애플 전용 인터페이스를 써서 윈도에서 사용이 안 된다. (인식 불가 ㅜㅠ)
 
 ![IMG_20210923_171804](https://user-images.githubusercontent.com/22253556/147055704-4dfbf12e-6760-45bc-9360-a195a33c46c8.jpg)
 
-중간고사 준비로 바빠서 바로 개조는 못하고 당분간 책꽂이로 썼다.
+중간고사 준비로 바빠서 바로 개조는 못 하고 당분간 책꽂이로 썼다.
 
 ![IMG_20211005_025317](https://user-images.githubusercontent.com/22253556/147055710-50725fea-1efc-44fe-b2d1-31fdef5b826c.jpg)
 
@@ -55,11 +55,11 @@ categories:
 
 - 멀티탭
 - 아이패드 1 액정 + HDMI 연결을 위한 [AD 보드](https://ko.aliexpress.com/item/4000078058633.html)
-- 안 쓰는 노트북 메인보드 (→ 이건 고장나서 미니PC로 변경한다.)
+- 안 쓰는 노트북 메인보드 (→ 이건 고장 나서 미니 PC로 변경한다.)
 
 ![IMG_20211017_173452](https://user-images.githubusercontent.com/22253556/147058811-990e3bb5-e038-4cff-a751-877e960e83d0.jpg)
 
-15T 별 드라이버를 이용해서 뒷면 나사 4개를 빼면되는데, 위쪽 나사 구멍이 드라이버 길이보다 깊다.
+15T 별 드라이버를 이용해서 뒷면 나사 4개를 빼면 되는데, 위쪽 나사 구멍이 드라이버 길이보다 깊다.
 
 ![IMG_20211017_174042](https://user-images.githubusercontent.com/22253556/147058803-e7e8e539-6282-4b3a-86f3-f8df8e37394e.jpg)
 
@@ -73,19 +73,19 @@ categories:
 
 ## CRT 모니터 방전시키기
 
-CRT 모니터에 고전압이 흐르고 있어서, 분해 전에 내부 방전을 시켜야 한다. 안 하고 양손으로 만지다 감전되면 심장에 전기가 통해서 사망할 수도 있다고 한다. [Discharging the CRT in a compact Macintosh](https://youtu.be/x1DeMOl_nK4) 유튜브 영상을 참고했다. 전선을 모니터 접지부와 일자 드라이버에 연결하고, 모니터 옆 빨간선이 달려있는 애노드캡을 제거한다. 전류가 남아있으면 드라이버가 닿자마자 스파크가 튄다는데, 자연적으로 방전되서 아무 반응이 없었다.
+CRT 모니터에 고전압이 흐르고 있어서, 분해 전에 내부 방전시켜야 한다. 안 하고 양손으로 만지다 감전되면 심장에 전기가 통해서 사망할 수도 있다고 한다. [Discharging the CRT in a compact Macintosh](https://youtu.be/x1DeMOl_nK4) 유튜브 영상을 참고했다. 전선을 모니터 접지부와 일자 드라이버에 연결하고, 모니터 옆 빨간선이 달려있는 애노드캡을 제거한다. 전류가 남아있으면 드라이버가 닿자마자 스파크가 튄다는데, 자연적으로 방전되어서 아무 반응이 없었다.
 
 ![IMG_20211020_183123](https://user-images.githubusercontent.com/22253556/147058777-2e3e1fc7-5eaf-4a75-842c-fce3ca62d2b9.jpg)
 
 ## 분해 완료
 
-열심히 분해해준다.
+열심히 분해해 준다.
 ![IMG_20211020_184134](https://user-images.githubusercontent.com/22253556/147058771-ded33a5a-c857-486b-bd0c-6319d19aaf39.jpg)
 
 30년된 하드
 ![IMG_20211020_184418](https://user-images.githubusercontent.com/22253556/147058765-e6caf6ac-e066-43d1-b59f-22a1ca629830.jpg)
 
-메인보드. 칩들이 큼직큼직하다
+메인보드. 칩들이 큼직큼직하다.
 
 ![IMG_20211020_185324](https://user-images.githubusercontent.com/22253556/147058733-d547ec26-1116-4c16-95fe-dc625f8c5337.jpg)
 
@@ -95,7 +95,7 @@ CRT 모니터에 고전압이 흐르고 있어서, 분해 전에 내부 방전�
 
 ## 황변 제거하기
 
-플라스틱에 탈색제를 바르고 자외선에 노출시키면 황변이 제거된다.
+플라스틱에 탈색제를 바르고 자외선에 노출하면 황변이 제거된다.
 
 준비물
 
@@ -135,7 +135,7 @@ LCD가 앞판에 밀착하도록 플라스틱 구조물을 떼어낸다. 플라�
 
 ## LCD 테스트
 
-PC에 HDMI로 연결해서 [웹 WinXP](https://winxp.vercel.app/)와 [웹 맥 OS](https://macos.vercel.app/)를 띄워봤다. 레티나 디스플레이가 아니라 픽셀이 보이지만 10년 된 LCD 치고 색은 잘 나온다.
+PC에 HDMI로 연결해서 [웹 WinXP](https://winxp.vercel.app/)와 [웹 맥 OS](https://macos.vercel.app/)를 띄워봤다. 레티나 디스플레이가 아니라 픽셀이 보이지만 10년 된 LCD치고 색은 잘 나온다.
 
 ![IMG_20211107_193804](https://user-images.githubusercontent.com/22253556/147058669-7dae2edb-5904-412b-99b9-0c7c007b2ff5.jpg)
 
@@ -143,11 +143,11 @@ PC에 HDMI로 연결해서 [웹 WinXP](https://winxp.vercel.app/)와 [웹 맥 OS
 
 ## 전원부 설치
 
-기존 부품에서 전원 연결부와 스위치를 뗴어냈다.
+기존 부품에서 전원 연결부와 스위치를 뗐다.
 
 ![IMG_20211110_194041](https://user-images.githubusercontent.com/22253556/147058647-b0514d24-8d13-4e61-957c-8b3d31d8d82a.jpg)
 
-배선은 [닥터케이님의 영상](https://youtu.be/a5XxrUhoXqE?t=508) 8분대를 참조해서 납땜을 했다.
+배선은 [닥터케이님의 영상](https://youtu.be/a5XxrUhoXqE?t=508) 8분대를 참조해서 납땜했다.
 
 ![IMG_20211110_210930](https://user-images.githubusercontent.com/22253556/147058642-ac46d558-4b3b-4e39-b3fb-e2274d0059d2.jpg)
 
@@ -166,14 +166,14 @@ PC에 HDMI로 연결해서 [웹 WinXP](https://winxp.vercel.app/)와 [웹 맥 OS
 
 ## 내부 부품 설치
 
-손바닥만한 [미니 PC](https://ko.aliexpress.com/item/1005001921619318.html)를 구입했다. 가격은 18만원에 스펙은 인텔 셀러론 J4125 / 8GB RAM / 128GB SSD이다.
+손바닥만한 [미니 PC](https://ko.aliexpress.com/item/1005001921619318.html)를 샀다. 가격은 18만원에 스펙은 인텔 셀러론 J4125 / 8GB RAM / 128GB SSD이다.
 
 ![IMG_20211110_125024](https://user-images.githubusercontent.com/22253556/147058649-472fe891-9876-444d-b498-c1a0316748a9.jpg)
 
-[USB 스피커](https://ko.aliexpress.com/item/1005001679890985.html)도 구입했다.
+[USB 스피커](https://ko.aliexpress.com/item/1005001679890985.html)도 샀다.
 ![image](https://user-images.githubusercontent.com/22253556/147070152-c9c03e05-5b00-42e5-8a2a-9e97371b0830.png)
 
-내부에 미니PC, 스피커, AD 보드, 멀티탭을 설치한다. 접착제: 중력
+내부에 미니 PC, 스피커, AD 보드, 멀티탭을 설치한다. 접착제: 중력
 ![IMG_20211123_164636](https://user-images.githubusercontent.com/22253556/147058625-81f46844-5979-405c-8114-2fbbddc374ba.jpg)
 
 매킨토시 좌측 버튼을 그대로 사용하기 위해, 미니PC와 AD보드 전원 버튼을 정렬했다.
@@ -191,7 +191,7 @@ PC에 HDMI로 연결해서 [웹 WinXP](https://winxp.vercel.app/)와 [웹 맥 OS
 
 ![IMG_20211127_122119](https://user-images.githubusercontent.com/22253556/147058583-6341a27a-e31f-4e54-8fba-e3bd46fdb5ba.jpg)
 
-어울리는 마우스로 아래에 50 Fifty Concepts Retro Computer Mouse를 사려고 했는데, 배송비까지 5만원이나 해서 도저히 못 사겠다(마우스 1만원, 배송비 4만원).
+어울리는 마우스로 아래에 50 Fifty Concepts Retro Computer Mouse를 사려고 했는데, 배송비까지 5만 원이나 해서 도저히 못 사겠다(마우스 1만 원, 배송비 4만 원).
 
 ![image](https://user-images.githubusercontent.com/22253556/147072828-9f893d91-bf37-4e9f-9ee2-5907f2b9ca54.png)
 
