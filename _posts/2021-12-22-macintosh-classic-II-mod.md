@@ -28,24 +28,23 @@ categories:
 
 ![macintosh 128k](https://user-images.githubusercontent.com/22253556/147051641-3908bc91-fa3e-43a8-8715-e8e9db7d3b77.png)
 
-평소에 PC와 GUI의 시대를 연 매킨토시에 대한 로망이 있었다. 김종민님의 [Macintosh Classic iPad Air Stand](https://blog.cmiscm.com/?p=5765)와 닥터케이님의 [30년 전 올드맥에 새 생명을](https://m.blog.naver.com/drangra/221979390145) 글은 매킨토시에 아이패드나 맥미니를 결합해서 개조하는 것을 보여주는데, 감성이 장난 아니다. 이걸 보고 심미성과 기능성을 모두 만족하는 매킨토시를 만들어보자는 생각을 했다.
+평소에 PC와 GUI의 시대를 연 매킨토시에 대한 로망이 있었다. 김종민님의 [Macintosh Classic iPad Air Stand](https://blog.cmiscm.com/?p=5765)와 닥터케이님의 [30년 전 올드맥에 새 생명을](https://m.blog.naver.com/drangra/221979390145) 글을 보고 나도 심미성과 기능성을 모두 만족하는 매킨토시를 만들어보고 싶다는 생각을 했다.
 
 ## 중고 매킨토시 구매
 
 이베이에서 중고 매킨토시를 구매했다. 황변은 쉽게 제거되므로 사진을 꼼꼼히 보고 부서진 곳이나 스크래치가 없는 물품을 골랐다.
 
-> 처음에 좀 싸게 사려고 경매를 시도했는데, 자동으로 입찰하는 봇한테 처참하게 발렸다.
-
 ![image](https://user-images.githubusercontent.com/22253556/147050389-40cb3645-a244-4fef-be9d-183b7e18b5a9.png)
 
-도착한 맥이다. 다행히 배송 중에 부서진 곳은 없었다. 엄청 무겁고 생각보다 앞뒤로 길다.
+도착한 맥이다. 다행히 배송 중에 부서진 곳은 없었다. 생각보다 무겁고 크다.
+
 ![IMG_20210925_215507](https://user-images.githubusercontent.com/22253556/147055712-e958d104-e928-4d5a-bb23-acf74b5f0189.jpg)
 
-같이 따라온 키보드는 애플 로고와 키캡에 인쇄된 이탤릭체 덕분에 이쁘다. 신기한 점은 캡스락 키가 볼펜처럼 누르면 딸깍거리면서 들어가고, 다시 누르면 튀어나온다. 아쉬운 점은 연결부가 PS2 규격이지만, 내부적으로 애플 전용 인터페이스를 써서 윈도에서 사용이 안 된다. (인식 불가 ㅜㅠ)
+같이 따라온 키보드는 애플 로고와 키캡에 인쇄된 이탤릭체 덕분에 이쁘다. 신기한 점은 캡스락 키가 볼펜처럼 누르면 딸깍거리면서 들어가고, 다시 누르면 튀어나온다. 아쉬운 점은 연결부가 PS2 규격이지만, 내부적으로 애플 전용 인터페이스를 써서 윈도에서 사용이 안 된다.
 
 ![IMG_20210923_171804](https://user-images.githubusercontent.com/22253556/147055704-4dfbf12e-6760-45bc-9360-a195a33c46c8.jpg)
 
-중간고사 준비로 바빠서 바로 개조는 못 하고 당분간 책꽂이로 썼다.
+중간고사 때문에 바빠서 바로 개조는 못 하고 한동안 책꽂이로 썼다.
 
 ![IMG_20211005_025317](https://user-images.githubusercontent.com/22253556/147055710-50725fea-1efc-44fe-b2d1-31fdef5b826c.jpg)
 
@@ -59,12 +58,13 @@ categories:
 
 ![IMG_20211017_173452](https://user-images.githubusercontent.com/22253556/147058811-990e3bb5-e038-4cff-a751-877e960e83d0.jpg)
 
-15T 별 드라이버를 이용해서 뒷면 나사 4개를 빼면 되는데, 위쪽 나사 구멍이 드라이버 길이보다 깊다.
+15T 별 드라이버를 이용해서 뒷면 나사 4개를 빼면 되는데, 위쪽 나사 구멍이 엄청 깊어서 가지고 있는 드라이버를 집어넣을 수가 없었다.
 
 ![IMG_20211017_174042](https://user-images.githubusercontent.com/22253556/147058803-e7e8e539-6282-4b3a-86f3-f8df8e37394e.jpg)
 
-롱 드라이버 즉시 구입
+롱 드라이버 바로 구입
 ![IMG_20211020_181120](https://user-images.githubusercontent.com/22253556/147058801-e0670321-e5b0-4170-b98c-7d684fc939e9.jpg)
+
 딱 대
 ![IMG_20211020_181238](https://user-images.githubusercontent.com/22253556/147058796-f3b48696-22b4-46e7-b994-9e5a90eda055.jpg)
 
@@ -173,10 +173,10 @@ PC에 HDMI로 연결해서 [웹 WinXP](https://winxp.vercel.app/)와 [웹 맥 OS
 [USB 스피커](https://ko.aliexpress.com/item/1005001679890985.html)도 샀다.
 ![image](https://user-images.githubusercontent.com/22253556/147070152-c9c03e05-5b00-42e5-8a2a-9e97371b0830.png)
 
-내부에 미니 PC, 스피커, AD 보드, 멀티탭을 설치한다. 접착제: 중력
+내부에 미니 PC, 스피커, AD 보드, 멀티탭을 설치한다.
 ![IMG_20211123_164636](https://user-images.githubusercontent.com/22253556/147058625-81f46844-5979-405c-8114-2fbbddc374ba.jpg)
 
-매킨토시 좌측 버튼을 그대로 사용하기 위해, 미니PC와 AD보드 전원 버튼을 정렬했다.
+미니PC와 AD보드 전원 버튼을 매킨토시의 옆구리 버튼이랑 잘 끼워맞췄다. 덕분에 추가 버튼 설치없이 PC와 모니터를 켤 수 있다.
 
 ![IMG_20211123_16422654 (1)](https://user-images.githubusercontent.com/22253556/147071057-415c61de-7024-467b-95dd-6a90b515ce76.jpg)
 
