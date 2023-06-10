@@ -94,9 +94,9 @@ ESP32 어댑터를 써서 선 연결도 쉽고, LED 매트릭스에 결합하기
 
 3. 아래 깃헙에서 zip 파일 다운로드 후, 아두이노 IDE 라이브러리에 zip 파일을 추가한다.
 
-   - https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-DMA
-   - https://github.com/adafruit/Adafruit-GFX-Library
-   - https://github.com/adafruit/Adafruit_BusIO
+   - [ESP32-HUB75-MatrixPanel-DMA](https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-DMA)
+   - [Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library)
+   - [Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO)
 
 4. 포트 USB 어쩌구저쩌구로 설정
 5. 보드는 ESP32 Dev Module 설정
