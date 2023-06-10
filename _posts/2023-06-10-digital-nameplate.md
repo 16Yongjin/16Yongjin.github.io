@@ -1,6 +1,6 @@
 ---
 title: ESP32와 LED 매트릭스로 디지털 명패 만들기
-date: 2023-02-19T21:00:00+09:00
+date: 2023-06-10T21:00:00+09:00
 author: yongjin0802
 categories:
   - Development
