@@ -97,8 +97,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-google_analytics: G-LKFHS1G7SS
-
 # Site Author
 author:
   name             : "조용진"
