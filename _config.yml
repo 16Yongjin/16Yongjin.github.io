@@ -97,7 +97,11 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-google_analytics: G-LKFHS1G7SS
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "G-LKFHS1G7SS"
 
 # Site Author
 author:
