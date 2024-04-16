@@ -16,9 +16,9 @@ categories:
 
 ![githuboctokit](https://github.com/16Yongjin/16Yongjin.github.io/assets/22253556/c212dd8e-9e57-4992-af20-15e7ae73df33)
 
-Octokit은 깃헙의 OpenAPI 문서를 기반으로 별도의 [스크립트](https://github.com/octokit/openapi-types.ts/blob/main/scripts/generate-types.js) 작성해서 타입을 생성하고 있습니다.
+Octokit은 깃헙의 OpenAPI 문서를 기반으로 별도의 [스크립트](https://github.com/octokit/openapi-types.ts/blob/main/scripts/generate-types.js)룰 사용해서 타입을 생성하고 있습니다.
 
-스크립트 없이 순수 타입스크립트만 써서 API 타입을 만드는 방법을 소개합니다.
+외부 스크립트 없이 순수 타입스크립트만 써서 API 타입을 만드는 방법을 소개합니다.
 
 ## 강력한 타입을 가지면서 쓰기 편한 API 클라이언트 만들기
 
@@ -275,6 +275,7 @@ const rpc = {
 
 ## 참고
 
-- [깃헙 Octokit.js](https://github.com/octokit/octokit.js)
-- [openapi-typescript](https://www.npmjs.com/package/openapi-typescript): OpenAPI 문서에서 타입 추출하기
+- [깃헙 Octokit.js 레포](https://github.com/octokit/octokit.js)
+- [openapi-typescript npm 패키지](https://www.npmjs.com/package/openapi-typescript): OpenAPI 문서에서 타입 추출하기
 - [OpenApi 스펙을 활용해서 type-safe하게 ReactQuery 사용하기](https://gist.github.com/seonghyeonkimm/977b58387f9f4e11afeee8c7685c2e89)
+- [예시 코드 깃헙](https://github.com/16Yongjin/safe-and-easy-api-client-type)
