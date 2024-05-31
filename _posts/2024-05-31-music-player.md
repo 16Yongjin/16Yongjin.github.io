@@ -136,9 +136,6 @@ audio.play();
 
 색상 트랜지션이 일어나는 것처럼 보인다.
 
-<details>
-  <summary>배경 전환 코드</summary>
-
 ```tsx
 const useGradient = (imageSrc: string) => {
   const [gradient, setGradient] = useState(DEFAULT_GRADIENT);
@@ -185,8 +182,6 @@ const ImageGradientBackground: React.FC<Props> = ({ src }) => {
   );
 };
 ```
-
-</details>
 
 ## 음악을 재생하면 뜨거워지는 아이폰
 
