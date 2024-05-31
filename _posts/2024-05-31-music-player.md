@@ -139,52 +139,52 @@ audio.play();
 <details>
   <summary>배경 전환 코드</summary>
 
-  ```tsx
-  const useGradient = (imageSrc: string) => {
-    const [gradient, setGradient] = useState(DEFAULT_GRADIENT);
+```tsx
+const useGradient = (imageSrc: string) => {
+  const [gradient, setGradient] = useState(DEFAULT_GRADIENT);
 
-    useEffect(() => {
-      const updateGradient = async () =>
-        setGradient(await createGradient(imageSrc));
+  useEffect(() => {
+    const updateGradient = async () =>
+      setGradient(await createGradient(imageSrc));
 
-      updateGradient();
-    }, [imageSrc]);
+    updateGradient();
+  }, [imageSrc]);
 
-    return gradient;
-  };
+  return gradient;
+};
 
-  const useGradientTransition = (gradient: string) => {
-    const [previousGradient, setPreviousGradient] = useState(gradient);
-    const isTransitioning = gradient !== previousGradient;
+const useGradientTransition = (gradient: string) => {
+  const [previousGradient, setPreviousGradient] = useState(gradient);
+  const isTransitioning = gradient !== previousGradient;
 
-    useEffect(() => {
-      const timeout = setTimeout(() => setPreviousGradient(gradient), 1000);
+  useEffect(() => {
+    const timeout = setTimeout(() => setPreviousGradient(gradient), 1000);
 
-      return () => clearTimeout(timeout);
-    }, [gradient]);
+    return () => clearTimeout(timeout);
+  }, [gradient]);
 
-    return { previousGradient, isTransitioning };
-  };
+  return { previousGradient, isTransitioning };
+};
 
-  const ImageGradientBackground: React.FC<Props> = ({ src }) => {
-    const gradient = useGradient(src);
-    const { previousGradient, isTransitioning } = useGradientTransition(gradient);
+const ImageGradientBackground: React.FC<Props> = ({ src }) => {
+  const gradient = useGradient(src);
+  const { previousGradient, isTransitioning } = useGradientTransition(gradient);
 
-    return (
-      <div
-        className={`
-          before:bg-[image:var(--previous-gradient)]
-          after:bg-[image:var(--gradient)] after:duration-1000 
-          ${isTransitioning ? "after:opacity-1" : "after:opacity-0"}
-        `}
-        style={{
-          "--gradient": gradient,
-          "--previous-gradient": previousGradient,
-        }}
-      ></div>
-    );
-  };
-  ```
+  return (
+    <div
+      className={`
+        before:bg-[image:var(--previous-gradient)]
+        after:bg-[image:var(--gradient)] after:duration-1000 
+        ${isTransitioning ? "after:opacity-1" : "after:opacity-0"}
+      `}
+      style={{
+        "--gradient": gradient,
+        "--previous-gradient": previousGradient,
+      }}
+    ></div>
+  );
+};
+```
 
 </details>
 
@@ -353,45 +353,40 @@ Zustand를 썼는데도 select하지 않은 상태의 변경에도 컴포넌트 
 
 selector 작성 코드도 줄이고, 얕은 객체 비교로 진짜로 상태가 변경됐을 때만 렌더링을 발생시키게 했다.
 
-<details>
-  <summary>useShallow 미들웨어</summary>
+```ts
+import { StoreApi, UseBoundStore } from "zustand";
+import { useShallow } from "zustand/react/shallow";
 
-  ```ts
-  import { StoreApi, UseBoundStore } from "zustand";
-  import { useShallow } from "zustand/react/shallow";
+type GenericState = Record<string, unknown>;
 
-  type GenericState = Record<string, unknown>;
-
-  export const createStoreWithSelectors = <T extends GenericState>(
-    store: UseBoundStore<StoreApi<T>>
-  ): (<K extends keyof T>(keys: K[]) => Pick<T, K>) => {
-    const useStore: <K extends keyof T>(keys: K[]) => Pick<T, K> = <
-      K extends keyof T
-    >(
-      keys: K[]
-    ) => {
-      return store(
-        useShallow((state) =>
-          keys.reduce((acc, key) => {
-            acc[key] = state[key];
-            return acc;
-          }, {} as Pick<T, K>)
-        )
-      );
-    };
-
-    return useStore;
+export const createStoreWithSelectors = <T extends GenericState>(
+  store: UseBoundStore<StoreApi<T>>
+): (<K extends keyof T>(keys: K[]) => Pick<T, K>) => {
+  const useStore: <K extends keyof T>(keys: K[]) => Pick<T, K> = <
+    K extends keyof T
+  >(
+    keys: K[]
+  ) => {
+    return store(
+      useShallow((state) =>
+        keys.reduce((acc, key) => {
+          acc[key] = state[key];
+          return acc;
+        }, {} as Pick<T, K>)
+      )
+    );
   };
-  ```
 
-  ```ts
-  const { currentTrack, playlist } = useMusicPlayerStore([
-    "currentTrack",
-    "playlist",
-  ]);
-  ```
+  return useStore;
+};
+```
 
-</details>
+```ts
+const { currentTrack, playlist } = useMusicPlayerStore([
+  "currentTrack",
+  "playlist",
+]);
+```
 
 ## 플레이리스트 자동생성 스크립트
 
