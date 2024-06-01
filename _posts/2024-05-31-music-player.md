@@ -396,6 +396,46 @@ const { currentTrack, playlist } = useMusicPlayerStore([
 3. Sharp.js로 썸네일 이미지 생성
 4. 플레이리스트 JSON 파일 생성이 자동으로 된다.
 
+## 에어팟으로 다음곡 넘어가기
+
+[MediaSession](https://developer.mozilla.org/en-US/docs/Web/API/Media_Session_API)를 쓰면 잠금화면에 음악 정보를 보여주고 재생을 제어할 수 있다.
+
+![media session](https://github.com/16Yongjin/16Yongjin.github.io/assets/22253556/022fb44f-9396-49f6-8451-4a87da434df0)
+
+(아이폰 잠금화면 음악 위젯)
+
+### 음악 정보 띄우기
+
+메타데이터에 `MediaMetadata`를 만들어서 넣어주면 앨범 사진과 노래 정보를 잠금화면에서 볼 수 있다.
+
+```ts
+navigator.mediaSession.metadata = new MediaMetadata({
+  title: "노래 제목",
+  artist: "가수명",
+  album: "앨범명",
+  artwork: [
+    {
+      src: "앨범 이미지 URL",
+      sizes: "600x600",
+      type: "image/jpeg",
+    },
+  ],
+});
+```
+
+### 재생 제어 버튼 달기
+
+재생/정지/다음/이전 버튼 액션을 달아준다.
+
+이게 있어야 에이팟 몸통 두 번 눌러서 다음곡으로 넘어갈 수 있다.
+
+```ts
+navigator.mediaSession.setActionHandler("play", play);
+navigator.mediaSession.setActionHandler("pause", pause);
+navigator.mediaSession.setActionHandler("previoustrack", playPrev);
+navigator.mediaSession.setActionHandler("nexttrack", playNext);
+```
+
 ## 마무리
 
 - 돈이 없으면 좋아하는 음악을 못 듣게 되는 슬픈 일은 이제 발생하지 않는다.
